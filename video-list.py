@@ -1,7 +1,7 @@
 import os
 import cv2
 import datetime
-import re
+# import re
 
 base_path = "E:\Courses\Web Development\[FreeCourseSite.com] Udemy - Advanced CSS and Sass Flexbox, Grid, Animations and More!"
 course_name = base_path.split('\\')[-1]
