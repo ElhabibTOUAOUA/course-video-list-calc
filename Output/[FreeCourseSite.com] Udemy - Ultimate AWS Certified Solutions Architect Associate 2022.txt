@@ -1,0 +1,386 @@
+------------------ 01 - Introduction - AWS Certified Solutions Architect Associate ------------------
+001 Course Introduction - AWS Certified Solutions Architect Associate | 03:43
+003 Creating an AWS Account | 01:49
+005 Important Message | 01:00
+006 About your instructor | 02:20
+------------------ 02 - Code & Slides Download ------------------
+------------------ 03 - Getting started with AWS ------------------
+001 AWS Cloud Overview - Regions & AZ | 08:09
+002 Tour of the AWS Console & Services in AWS | 03:53
+003 About the UI changes in the course | 01:51
+------------------ 04 - IAM & AWS CLI ------------------
+001 IAM Introduction Users, Groups, Policies | 03:22
+002 IAM Users & Groups Hands On | 06:51
+003 IAM Policies | 02:51
+004 IAM Policies Hands On | 06:09
+005 IAM MFA Overview | 04:19
+006 IAM MFA Hands On | 03:17
+007 AWS Access Keys, CLI and SDK | 04:04
+008 AWS CLI Setup on Windows | 01:45
+009 AWS CLI Setup on Mac OS X | 01:29
+010 AWS CLI Setup on Linux | 01:30
+011 AWS CLI Hands On | 03:43
+013 AWS CloudShell | 03:53
+014 IAM Roles for AWS Services | 01:39
+015 IAM Roles Hands On | 01:39
+016 IAM Security Tools | 055
+017 IAM Security Tools Hands On | 02:26
+018 IAM Best Practices | 01:30
+019 IAM Summary | 01:48
+------------------ 05 - EC2 Fundamentals ------------------
+001 AWS Budget Setup | 05:44
+002 EC2 Basics | 05:09
+004 Create an EC2 Instance with EC2 User Data to have a Website Hands On | 150
+005 EC2 Instance Types Basics | 05:51
+006 Security Groups & Classic Ports Overview | 07:26
+007 Security Groups Hands On | 05:22
+008 SSH Overview | 02:47
+009 How to SSH using Linux or Mac | 04:45
+010 How to SSH using Windows | 05:58
+011 How to SSH using Windows 10 | 05:14
+013 EC2 Instance Connect | 02:30
+014 EC2 Instance Roles Demo | 04:20
+015 EC2 Instance Purchasing Options | 09:49
+016 Spot Instances & Spot Fleet | 09:32
+017 EC2 Instances Launch Types Hands On | 08:05
+------------------ 06 - EC2 - Solutions Architect Associate Level ------------------
+001 Private vs Public vs Elastic IP | 04:42
+002 Private vs Public vs Elastic IP Hands On | 05:19
+003 EC2 Placement Groups | 06:06
+004 EC2 Placement Groups - Hands On | 01:58
+005 Elastic Network Interfaces (ENI) - Overview | 02:16
+006 Elastic Network Interfaces (ENI) - Hands On | 05:23
+008 EC2 Hibernate | 03:13
+009 EC2 Hibernate - Hands On | 03:45
+010 EC2 - Advanced Concepts (Nitro, vCPU, Capacity Reservations) | 06:48
+------------------ 07 - EC2 Instance Storage ------------------
+001 EBS Overview | 04:57
+002 EBS Hands On | 04:59
+003 EBS Snapshots | 02:40
+004 EBS Snapshots - Hands On | 03:42
+005 AMI Overview | 02:45
+006 AMI Hands On | 05:35
+007 EC2 Instance Store | 02:48
+008 EBS Volume Types | 05:33
+009 EBS Multi-Attach | 01:24
+010 EBS Encryption | 03:24
+011 Amazon EFS | 05:00
+012 Amazon EFS - Hands On | 11:08
+013 EFS vs EBS | 02:56
+014 EBS & EFS - Section Cleanup | 01:31
+------------------ 08 - High Availability and Scalability ELB & ASG ------------------
+001 High Availability and Scalability | 05:06
+002 Elastic Load Balancing (ELB) Overview | 06:15
+003 Classic Load Balancer (CLB) | 053
+004 Classic Load Balancer (CLB) - Hands On | 125
+005 Application Load Balancer (ALB) | 05:49
+006 Application Load Balancer (ALB) - Hands On | 06:50
+007 Network Load Balancer (NLB) | 02:56
+008 Network Load Balancer (NLB) - Hands On | 05:12
+009 Gateway Load Balancer (GWLB) | 03:47
+010 Elastic Load Balancer - Sticky Sessions | 05:41
+011 Elastic Load Balancer - Cross Zone Load Balancing | 04:47
+012 Elastic Load Balancer - SSL Certificates | 07:50
+013 Elastic Load Balancer - Connection Draining | 02:22
+014 Auto Scaling Groups (ASG) Overview | 07:30
+015 Auto Scaling Groups Hands On | 08:48
+016 Auto Scaling Groups - Scaling Policies | 05:00
+017 Auto Scaling Groups - Scaling Policies Hands On | 09:15
+018 Auto Scaling Groups - for Solutions Architects | 04:23
+------------------ 09 - AWS Fundamentals RDS + Aurora + ElastiCache ------------------
+001 Amazon RDS Overview | 04:43
+002 RDS Read Replicas vs Multi AZ | 07:22
+003 Amazon RDS Hands On | 151
+004 RDS Encryption + Security | 06:41
+005 Amazon Aurora | 07:10
+006 Amazon Aurora - Hands On | 08:15
+007 Amazon Aurora - Advanced Concepts | 06:17
+008 ElastiCache Overview | 04:12
+009 ElastiCache Hands On | 03:45
+010 ElastiCache for Solution Architects | 03:13
+------------------ 10 - Route 53 ------------------
+001 What is a DNS | 06:25
+002 Route 53 Overview | 06:18
+003 Route 53 - Registering a domain | 02:59
+004 Route 53 - Creating our first records | 03:57
+005 Route 53 - EC2 Setup | 04:49
+006 Route 53 - TTL | 05:28
+007 Route 53 CNAME vs Alias | 07:01
+008 Routing Policy - Simple | 04:06
+009 Routing Policy - Weighted | 05:02
+010 Routing Policy - Latency | 04:40
+011 Route 53 - Health Checks | 04:55
+012 Route 53 - Health Checks Hands On | 04:39
+013 Routing Policy - Failover | 04:12
+014 Routing Policy - Geolocation | 04:15
+015 Routing Policy - Geoproximity | 03:21
+016 Routing Policy - Traffic Flow & Geoproximity Hands On | 07:33
+017 Routing Policy - Multi Value | 03:42
+018 3rd Party Domains & Route 53 | 02:24
+019 Route 53 - Section Cleanup | 01:22
+------------------ 11 - Classic Solutions Architecture Discussions ------------------
+001 Solutions Architecture Discussions Overview | 01:13
+002 WhatsTheTime.com | 12:39
+003 MyClothes.com | 09:38
+004 MyWordPress.com | 04:37
+005 Instantiating applications quickly | 02:54
+006 Beanstalk Overview | 04:32
+007 Beanstalk Hands On | 04:57
+------------------ 12 - Amazon S3 Introduction ------------------
+001 Amazon S3 - Section Introduction | 01:12
+002 S3 Buckets and Objects | 03:05
+003 S3 Buckets and Objects - Hands On | 05:44
+004 S3 Versioning | 01:10
+005 S3 Versioning - Hands On | 05:29
+006 S3 Encryption | 07:48
+007 S3 Encryption - Hands On | 06:02
+008 S3 Security & Bucket Policies | 05:29
+009 S3 Bucket Policies Hands On | 07:45
+010 S3 Websites | 05:10
+011 S3 CORS | 05:25
+012 S3 CORS Hands On | 08:28
+013 S3 Consistency Model | 01:08
+------------------ 13 - AWS SDK, IAM Roles & Policies ------------------
+001 IAM Roles and Policies Hands On | 07:22
+002 AWS Policy Simulator | 01:59
+003 AWS EC2 Instance Metadata | 04:54
+004 AWS SDK Overview | 01:41
+------------------ 14 - Advanced Amazon S3 & Athena ------------------
+001 S3 MFA Delete | 01:31
+002 S3 MFA Delete Hands On | 06:25
+003 S3 Default Encryption | 03:12
+004 S3 Access Logs | 01:49
+005 S3 Access Logs - Hands On | 02:49
+006 S3 Replication (Cross Region and Same Region) | 02:28
+007 S3 Replication - Hands On | 06:17
+008 S3 Pre-signed URLs | 01:37
+009 S3 Pre-signed URLs - Hands On | 01:48
+010 S3 Storage Classes + Glacier | 06:12
+011 S3 Storage Classes + Glacier - Hands On | 03:38
+012 S3 Lifecycle Rules | 05:18
+013 S3 Lifecycle Rules - Hands On | 03:02
+014 S3 Analytics | 050
+015 S3 Performance | 06:14
+016 S3 Select & Glacier Select | 01:42
+017 S3 Event Notifications | 02:28
+018 S3 Event Notifications - Hands On | 05:42
+019 S3 Requester Pays | 01:38
+020 Athena Overview | 01:21
+021 Athena Hands On | 05:16
+022 S3 Lock Policies & Glacier Vault Lock | 02:01
+------------------ 15 - CloudFront & AWS Global Accelerator ------------------
+001 CloudFront Overview | 08:40
+002 CloudFront with S3 - Hands On | 05:12
+003 CloudFront Signed URL  Cookies | 03:37
+004 CloudFront Advanced Concepts | 07:07
+005 AWS Global Accelerator - Overview | 06:07
+006 AWS Global Accelerator - Hands On | 149
+------------------ 16 - AWS Storage Extras ------------------
+001 AWS Snow Family Overview | 11:14
+002 AWS Snow Family Hands On | 05:36
+003 Architecture Snowball into Glacier | 038
+004 Amazon FSx | 06:09
+005 Amazon FSx - Hands On | 03:23
+006 Storage Gateway Overview | 07:04
+007 Amazon FSx File Gateway | 01:34
+008 Storage Gateway Hands On | 02:12
+009 AWS Transfer Family | 02:19
+010 All AWS Storage Options Compared | 02:40
+------------------ 17 - Decoupling applications SQS, SNS, Kinesis, Active MQ ------------------
+001 Introduction to Messaging | 02:45
+002 Amazon SQS - Standard Queues Overview | 136
+003 SQS - Standard Queue Hands On | 06:46
+004 SQS - Queue Access Policy | 07:09
+005 SQS - Message Visibility Timeout | 05:19
+006 SQS - Dead Letter Queues | 06:14
+007 SQS - Delay Queues | 02:27
+008 SQS - Long Polling | 01:40
+009 SQS - Request Response | 02:58
+010 SQS - FIFO Queues | 03:36
+011 SQS + Auto Scaling Group | 02:38
+012 Amazon Simple Notification Service (AWS SNS) | 04:18
+013 SNS and SQS -  Fan Out Pattern | 05:48
+014 SNS - Hands On | 04:36
+015 Amazon Kinesis | 128
+016 Amazon Kinesis - Hands On | 13:56
+017 Data Ordering for Kinesis vs SQS FIFO | 07:14
+018 SQS vs SNS vs Kinesis | 03:00
+019 Amazon MQ | 02:27
+------------------ 18 - Containers on AWS ECS, Fargate, ECR & EKS ------------------
+001 Docker Introduction | 05:10
+002 Amazon ECS | 06:55
+003 Creating ECS Cluster - Hands On | 04:46
+004 Creating ECS Service - Hands On | 106
+005 Amazon ECS - Auto Scaling | 05:15
+006 Amazon ECS - Rolling Updates | 02:33
+007 Amazon ECS - Solutions Architectures | 02:32
+008 Amazon ECR | 01:39
+009 EKS Overview | 02:31
+------------------ 19 - Serverless Overviews from a Solution Architect Perspective ------------------
+002 Serverless Introduction | 02:19
+003 Lambda Overview | 07:20
+004 Lambda Hands-On | 09:49
+005 Lambda Limits | 01:44
+006 Lambda@Edge | 03:04
+007 Amazon DynamoDB | 05:33
+008 Amazon DynamoDB - Hands-On | 04:48
+009 Amazon DynamoDB - Advanced Features | 07:02
+010 API Gateway Overview | 04:40
+011 API Gateway Basics Hands-On | 09:32
+012 API Gateway Security | 05:11
+013 AWS Cognito Overview | 05:59
+014 Serverless Application Model (SAM) Overview | 01:08
+------------------ 20 - Serverless Solution Architecture Discussions ------------------
+001 Mobile Application MyTodoList | 04:49
+002 Serverless Website MyBlog.com | 05:42
+003 MicroServices Architecture | 03:52
+004 Distributing Paid Content | 05:05
+005 Software updates distribution | 02:10
+006 Big Data Ingestion Pipeline | 04:14
+------------------ 21 - Databases in AWS ------------------
+001 Choosing the right database | 04:34
+002 RDS | 03:24
+003 Aurora | 02:49
+004 ElastiCache | 02:43
+005 DynamoDB | 04:53
+006 S3 | 03:52
+007 Athena | 02:09
+008 Redshift | 07:43
+009 Glue | 01:50
+010 Neptune | 01:55
+012 ElasticSearch  OpenSearch | 02:37
+------------------ 22 - AWS Monitoring & Audit CloudWatch, CloudTrail & Config ------------------
+001 AWS Monitoring - Section Introduction | 038
+002 CloudWatch Metrics | 02:54
+003 CloudWatch Custom Metrics | 04:04
+004 CloudWatch Dashboards | 04:11
+005 CloudWatch Logs | 03:32
+006 CloudWatch Logs Hands On | 05:10
+007 CloudWatch Agent & CloudWatch Logs Agent | 03:16
+008 CloudWatch Alarms | 02:31
+009 CloudWatch Alarms Hands On | 04:39
+010 EC2 Instance Recovery with CloudWatch Alarms | 01:59
+011 AWS CloudWatch Events | 05:24
+012 Amazon EventBridge | 03:56
+013 Amazon EventBridge - Hands On | 07:11
+014 CloudTrail Overview | 05:42
+015 CloudTrail Hands On | 134
+016 AWS Config - Overview | 04:45
+017 AWS Config - Hands On | 09:38
+018 CloudTrail vs CloudWatch vs Config | 02:29
+------------------ 23 - Identity and Access Management (IAM) - Advanced ------------------
+001 Security Token Service (STS) Overview | 04:16
+002 Identity Federation & Cognito | 09:20
+003 Directory Services - Overview | 05:34
+004 Organizations - Overview | 09:27
+005 Organizations - Hands On | 100
+006 IAM - Advanced | 06:23
+007 IAM - Policy Evaluation Logic | 06:47
+008 Resource Access Manager (RAM) | 04:53
+009 AWS Single Sign On (SSO) - Overview | 03:41
+010 AWS Single Sign On (SSO) - Hands On | 02:10
+------------------ 24 - AWS Security & Encryption KMS, SSM Parameter Store, CloudHSM, Shield, WAF ------------------
+001 AWS Security - Section Introduction | 044
+002 Encryption 101 | 05:19
+003 KMS Overview | 08:18
+004 KMS Hands On w CLI | 09:01
+005 KMS Key Rotation | 03:09
+006 SSM Parameter Store Overview | 04:28
+007 SSM Parameter Store Hands On (CLI) | 07:12
+008 SSM Parameter Store Hands On (AWS Lambda) | 103
+009 AWS Secrets Manager - Overview | 01:03
+010 AWS Secrets Manager - Hands On | 05:48
+011 CloudHSM | 04:07
+012 Shield - DDoS Protection | 01:30
+013 Web Application Firewall (WAF) | 04:02
+014 WAF & Shield - Hands On | 03:18
+015 Amazon GuardDuty | 02:16
+016 Amazon Inspector | 02:12
+017 Macie | 01:06
+018 Shared Responsibility Model | 04:29
+------------------ 25 - Networking - VPC ------------------
+001 Section Introduction | 01:05
+002 CIDR, Private vs Public IP | 06:40
+003 Default VPC Overview | 05:24
+004 VPC Overview | 01:11
+005 VPC Hands On | 02:08
+006 Subnet Overview | 01:41
+007 Subnet Hands On | 03:53
+008 Internet Gateways & Route Tables | 01:13
+009 Internet Gateways & Route Tables Hands On | 06:47
+010 Bastion Hosts | 01:34
+011 Bastion Hosts Hands On | 04:44
+012 NAT Instances | 03:41
+013 NAT Instances Hands On | 05:16
+014 NAT Gateways | 03:48
+015 NAT Gateways Hands On | 03:04
+016 DNS Resolution Options & Route 53 Private Zones | 02:54
+017 DNS Resolution Options & Route 53 Private Zones Hands On | 03:21
+018 NACL & Security Groups | 144
+019 NACL & Security Groups Hands On | 06:33
+020 VPC Reachability Analyzer | 01:47
+021 VPC Reachability Analyzer Hands On | 04:28
+022 VPC Peering | 02:05
+023 VPC Peering Hands On | 05:47
+024 VPC Endpoints | 03:46
+025 VPC Endpoints Hands On | 06:30
+026 VPC Flow Logs | 03:07
+027 VPC Flow Logs Hands On + Athena | 09:22
+028 Site to Site VPN, Virtual Private Gateway & Customer Gateway | 03:58
+029 Site to Site VPN, Virtual Private Gateway & Customer Gateway Hands On | 02:24
+030 Direct Connect & Direct Connect Gateway | 06:36
+031 AWS PrivateLink - VPC Endpoint Services | 03:07
+032 AWS PrivateLink - VPC Endpoint Services Hands On | 01:15
+033 AWS ClassicLink | 01:22
+034 Transit Gateway | 05:10
+035 VPC Traffic Mirroring | 02:10
+036 IPv6 for VPC | 03:21
+037 IPv6 for VPC - Hands On | 03:40
+038 Egress Only Internet Gateway | 03:08
+039 Egress Only Internet Gateway Hands On | 01:00
+040 Section Cleanup | 02:22
+041 VPC Section Summary | 05:25
+042 Networking Costs in AWS | 09:17
+------------------ 26 - Disaster Recovery & Migrations ------------------
+001 Disaster Recovery in AWS | 11:30
+002 Database Migration Service (DMS) | 04:12
+003 Database Migration Service (DMS) - Hands On | 03:21
+004 On-Premises Strategies with AWS | 03:18
+005 DataSync - Overview | 02:39
+006 Transferring Large Datasets into AWS | 03:01
+007 AWS Backup | 03:10
+008 AWS Backup - Hands On | 04:23
+------------------ 27 - More Solution Architectures ------------------
+001 Event Processing in AWS | 07:06
+002 Caching Strategies in AWS | 03:03
+003 Blocking an IP Address in AWS | 06:08
+004 High Performance Computing (HPC) on AWS | 06:46
+005 EC2 Instance High Availability | 06:50
+006 Bastion Host High Availability | 03:40
+------------------ 28 - Other Services ------------------
+001 Other Services Section Introduction | 036
+002 CICD Introduction | 03:19
+003 CloudFormation Intro | 05:22
+004 CloudFormation Hands-On | 148
+005 CloudFormation - Extras | 01:07
+006 Step Functions & SWF | 03:43
+007 EMR | 02:28
+008 OpsWorks | 02:04
+009 AWS Workspaces | 01:55
+010 AppSync | 01:12
+011 Cost Explorer | 02:10
+------------------ 29 - WhitePapers and Architectures - AWS Certified Solutions Architect Associate ------------------
+001 WhitePaper Section Introduction | 054
+002 AWS Well-Architected Framework & Well-Architected Tool | 06:07
+003 AWS Trusted Advisor Overview + Hands-On | 04:42
+004 Examples of Architecture - AWS Certified Solutions Architect Associate | 04:42
+------------------ 30 - Preparing for the Exam + Practice Exam - AWS Certified Solutions Architect Assoc ------------------
+001 Exam Preparation - Section Introduction | 032
+002 State of Learning Checkpoint - AWS Certified Solutions Architect Associate | 032
+003 Exam Tips - AWS Certified Solutions Architect Associate | 032
+005 Exam Walkthrough and Signup | 04:02
+006 Save 50% on your AWS Exam Cost! | 01:42
+007 Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only | 01:42
+------------------ 31 - Congratulations - AWS Certified Solutions Architect Associate ------------------
+001 Congratulations - AWS Certified Solutions Architect Associate | 049
+002 THANK YOU! | 01:33

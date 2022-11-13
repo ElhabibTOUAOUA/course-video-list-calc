@@ -1,0 +1,158 @@
+------------------ 01 Welcome and First Steps ------------------
+001 Course Structure and Projects | 05:35
+004 A High-Level Overview of Web Development | 11:01
+005 Setting Up Our Code Editor | 08:52
+006 Your Very First Webpage! | 09:56
+007 Downloading Course Material | 04:22
+008 Watch Before You Start! | 05:45
+------------------ 02 HTML Fundamentals ------------------
+009 Section Intro | 040
+010 Introduction to HTML | 04:19
+011 HTML Document Structure | 11:46
+012 Text Elements | 16:20
+013 More Text Elements_ Lists | 11:00
+014 Images and Attributes | 12:45
+015 Hyperlinks | 14:50
+016 Structuring our Page | 156
+017 A Note on Semantic HTML | 06:28
+018 Installing Additional VS Code Extensions | 07:15
+019 CHALLENGE #1 | 11:51
+020 CHALLENGE #2 | 17:12
+------------------ 03 CSS Fundamentals ------------------
+021 Section Intro | 057
+022 Introduction to CSS | 04:07
+023 Inline, Internal and External CSS | 12:12
+024 Styling Text | 15:32
+025 Combining Selectors | 09:13
+026 Class and ID Selectors | 15:24
+027 Working With Colors | 24:08
+028 Pseudo-classes | 100
+029 Styling Hyperlinks | 09:44
+030 Using Chrome DevTools | 08:04
+031 CSS Theory #1_ Conflicts Between Selectors | 17:24
+032 CSS Theory #2_ Inheritance and the Universal Selector | 14:36
+033 CHALLENGE #1 | 17:41
+034 CSS Theory #3_ The CSS Box Model | 08:05
+035 Using Margins and Paddings | 22:08
+036 Adding Dimensions | 08:03
+037 Centering our Page | 07:56
+038 CHALLENGE #2 | 159
+039 CSS Theory #4_ Types of Boxes | 22:19
+040 CSS Theory #5_ Absolute Positioning | 16:04
+041 Pseudo-elements | 16:52
+042 Developer Skill #1_ Googling and Reading Documentation | 12:15
+043 Developer Skill #2_ Debugging and Asking Questions | 22:16
+044 CHALLENGE #3 | 19:37
+------------------ 04 Layouts_ Floats, Flexbox, and CSS Grid Fundamentals ------------------
+045 Section Intro | 01:18
+046 The 3 Ways of Building Layouts | 05:19
+047 Using Floats | 17:23
+048 Clearing Floats | 07:23
+049 Building a Simple Float Layout | 08:46
+050 box-sizing_ border-box | 11:13
+051 CHALLENGE #1 | 215
+052 Introduction to Flexbox | 09:43
+053 A Flexbox Overview | 07:36
+054 Spacing and Aligning Flex Items | 152
+055 The flex Property | 11:34
+056 Adding Flexbox to Our Project | 19:57
+057 Building a Simple Flexbox Layout | 12:15
+058 CHALLENGE #2 | 14:14
+059 Introduction to CSS Grid | 158
+060 A CSS Grid Overview | 09:40
+061 Sizing Grid Columns and Rows | 13:55
+062 Placing and Spanning Grid Items | 13:00
+063 Aligning Grid Items and Tracks | 13:47
+064 Building a Simple CSS Grid Layout | 15:46
+065 CHALLENGE #3 | 07:48
+------------------ 05 Web Design Rules and Framework ------------------
+066 Section Intro | 02:18
+067 Project Overview | 06:13
+068 Overview of Web Design and Website Personalities | 12:36
+069 Web Design Rules #1_ Typography | 16:17
+070 Implementing Typography | 23:23
+071 Web Design Rules #2_ Colors | 13:41
+072 Implementing Colors | 18:12
+073 Web Design Rules #3_ Images and Illustrations | 14:57
+074 Web Design Rules #4_ Icons | 12:59
+075 Implementing Icons | 21:34
+076 Web Design Rules #5_ Shadows | 13:05
+077 Implementing Shadows | 12:08
+078 Web Design Rules #6_ Border-radius | 04:54
+079 Implementing Border-radius | 06:41
+080 Web Design Rules #7_ Whitespace | 13:10
+081 Web Design Rules #8_ Visual Hierarchy | 22:59
+082 Implementing Whitespace and Visual Hierarchy | 15:43
+083 Web Design Rules #9_ User Experience (UX) | 237
+084 The Website-Personalities-Framework | 359
+085 The Missing Piece_ Steal Like An Artist! | 126
+------------------ 06 Components and Layout Patterns ------------------
+086 Section Intro | 01:01
+087 Web Design Rules #10 - Part 1_ Elements and Components | 27:49
+088 Building an Accordion Component - Part 1 | 25:31
+089 Building an Accordion Component - Part 2 | 19:24
+090 Building a Carousel Component - Part 1 | 21:25
+091 Building a Carousel Component - Part 2 | 29:42
+092 Building a Table Component - Part 1 | 104
+093 Building a Table Component - Part 2 | 13:16
+094 CHALLENGE #1_ Building a Pagination Component | 24:19
+095 Web Design Rules #10 - Part 2_ Layout Patterns | 21:52
+096 Building a Hero Section - Part 1 | 22:12
+097 Building a Hero Section - Part 2 | 21:22
+098 Building a Web Application Layout - Part 1 | 15:13
+099 Building a Web Application Layout - Part 2 | 15:57
+------------------ 07 Omnifood Project _ Setup and Desktop Version ------------------
+100 Section Intro | 01:02
+101 The 7 Steps to a Great Website | 230
+102 Defining and Planning the Project (Steps 1 and 2) | 24:36
+103 Sketching Initial Layout Ideas (Step 3) | 07:36
+104 First Design and Development Steps (Step 4) | 15:21
+105 Responsive Design Principles | 08:37
+106 How rem and max-width Work | 16:06
+107 Building the Hero - Part 1 | 16:12
+108 Building the Hero - Part 2 | 29:27
+109 Building the Hero - Part 3 | 23:58
+110 Building the Header | 15:16
+111 Building the Navigation | 15:56
+112 Setting Up a Reusable Grid | 21:23
+113 Building the How-It-Works Section - Part 1 | 29:16
+114 Building the How-It-Works Section - Part 2 | 35:12
+115 Building the Featured-In Section | 19:46
+116 Building the Meals Section - Part 1 | 26:35
+117 Building the Meals Section - Part 2 | 21:01
+118 Building the Meals Section - Part 3 | 29:42
+119 Building the Testimonials Section - Part 1 | 18:15
+120 Building the Testimonials Section - Part 2 | 24:39
+121 Building the Pricing Section - Part 1 | 24:01
+122 Building the Pricing Section - Part 2 | 25:58
+123 Building the Features Part | 19:07
+124 Building the Call-To-Action Section - Part 1 | 26:13
+125 Building the Call-To-Action Section - Part 2 | 24:46
+126 Building the Call-To-Action Section - Part 3 | 29:10
+127 Building the Footer - Part 1 | 19:16
+128 Building the Footer - Part 2 | 27:58
+------------------ 08 Omnifood Project _ Responsive Web Design ------------------
+129 Section Intro | 048
+130 How Media Queries Work | 14:24
+131 How to Select Breakpoints | 04:48
+132 Responding to Small Laptops | 15:34
+133 Responding to Landscape Tablets | 19:25
+134 Responding to Tablets | 25:24
+135 Building the Mobile Navigation | 37:58
+136 Responding to Smaller Tablets | 18:56
+137 Responding to Phones | 26:43
+------------------ 09 Omnifood Project _ Effects, Optimizations and Deployment ------------------
+138 Section Intro | 051
+139 A Short Introduction to JavaScript | 03:10
+140 Making the Mobile Navigation Work | 08:32
+141 Implementing Smooth Scrolling | 29:24
+142 Implementing a Sticky Navigation Bar | 28:02
+143 Browser Support and Fixing Flexbox Gap in Safari | 07:56
+144 Testing Performance With Lighthouse | 08:46
+145 Adding Favicon and Meta Description | 12:24
+146 Image Optimizations | 18:27
+147 Deployment to Netlify | 08:21
+148 Making the Form Work With Netlify Forms | 07:49
+------------------ 10 The End! ------------------
+149 Where to Go from Here | 04:33
+------------------ html-css-course-master ------------------

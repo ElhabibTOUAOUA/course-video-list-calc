@@ -1,0 +1,158 @@
+------------------ 1 - Introduction ------------------
+1 - Course Introduction | 04:48
+2 - Creating an AWS Account | 01:40
+4 - Important Message | 01:00
+5 - About your instructor | 02:20
+------------------ 10 - Other Compute Services ECS, Lambda, Batch, Lightsail ------------------
+1 - What is Docker | 03:28
+10 - Other Compute - Summary | 02:43
+2 - ECS, Fargate & ECR Overview | 03:01
+3 - Serverless Introduction | 02:05
+4 - Lambda Overview | 06:22
+5 - Lambda Hands On | 09:49
+6 - API Gateway Overview | 01:29
+7 - Batch Overview | 03:09
+8 - Lightsail Overview | 01:47
+9 - Lightsail Hands On | 04:38
+------------------ 11 - Deployments & Managing Infrastructure at Scale ------------------
+1 - CloudFormation Overview | 03:33
+10 - CodeArtifact Overview | 01:24
+11 - CodeStar Overview | 01:07
+12 - Cloud9 Overview | 059
+13 - CodeStar & Cloud9 Hands On | 115
+14 - Systems Manager (SSM) Overview | 02:26
+15 - SSM Session Manager | 05:40
+16 - OpsWorks Overview | 01:57
+17 - Deployment Summary | 02:35
+2 - CloudFormation Hands On | 09:02
+3 - CDK Overview | 02:00
+4 - Beanstalk Overview | 04:17
+5 - Beanstalk Hands On | 05:36
+6 - CodeDeploy Overview | 01:41
+7 - CodeCommit Overview | 01:13
+8 - CodeBuild Overview | 01:07
+9 - CodePipeline Overview | 01:37
+------------------ 12 - Leveraging the AWS Global Infrastructure ------------------
+1 - Why Global Applications | 05:41
+10 - AWS Local Zones | 03:53
+11 - Global Applications Architecture | 02:36
+12 - Leveraging the AWS Global Infrastructure Summary | 01:57
+2 - Route 53 Overview | 04:28
+3 - Route 53 Hands On | 08:59
+4 - CloudFront Overview | 04:53
+5 - CloudFront Hands On | 05:12
+6 - S3 Transfer Acceleration | 02:23
+7 - AWS Global Accelerator | 04:56
+8 - AWS Outposts | 02:38
+9 - AWS WaveLength | 01:57
+------------------ 13 - Cloud Integrations ------------------
+1 - Cloud Integrations Overview | 02:01
+2 - SQS Overview | 03:06
+3 - SQS Hands On | 02:47
+4 - SNS Overview | 01:44
+5 - SNS Hands On | 02:25
+6 - Kinesis Overview | 01:44
+7 - Amazon MQ Overview | 01:37
+8 - Cloud Integrations Summary | 01:28
+------------------ 14 - Cloud Monitoring ------------------
+1 - CloudWatch Metrics & CloudWatch Alarms Overview | 03:36
+10 - CodeGuru Overview | 03:23
+11 - Service Health Dashboard | 01:31
+12 - Personal Health Dashboard | 02:46
+13 - Cloud Monitoring Summary | 01:46
+2 - CloudWatch Metrics & CloudWatch Alarms Hands On | 07:42
+3 - CloudWatch Logs Overview | 02:14
+4 - CloudWatch Logs Hands On | 02:52
+5 - CloudWatch Events EventBridge Overview | 02:35
+6 - CloudWatch Events EventBridge Hands On | 03:29
+7 - CloudTrail Overview | 05:42
+8 - CloudTrail Hands On | 134
+9 - X-Ray Overview | 02:11
+------------------ 15 - VPC & Networking ------------------
+1 - VPC Overview | 01:20
+2 - VPC, Subnet, Internet Gateway & NAT Gateways | 09:02
+3 - Security Groups & Network Access Control List (NACL) | 03:50
+4 - VPC Flow Logs & VPC Peering | 03:59
+5 - VPC Endpoints - Interface & Gateway (S3 & DynamoDB) | 02:11
+6 - Direct Connect & Site-to-Site VPN | 02:36
+7 - Transit Gateway Overview | 01:15
+8 - VPC & Networking Summary | 02:03
+------------------ 16 - Security & Compliance ------------------
+1 - Shared Responsibility Model Reminders & Examples | 04:29
+10 - Inspector Overview | 043
+11 - Config Overview | 06:46
+12 - Macie Overview | 01:06
+13 - Security Hub Overview | 02:55
+14 - Amazon Detective Overview | 01:10
+15 - AWS Abuse | 01:11
+16 - Root User Privileges | 02:04
+17 - Security & Compliance Summary | 02:39
+2 - DDoS Protection WAF & Shield | 04:44
+3 - Penetration Testing | 01:48
+4 - Encryption with KMS & CloudHSM | 05:32
+5 - Encryption with KMS & CloudHSM Hands On | 04:34
+6 - AWS Certificate Manager (ACM) Overview | 01:29
+7 - Secrets Manager Overview | 02:49
+8 - Artifact Overview | 02:00
+9 - GuardDuty Overview | 01:33
+------------------ 17 - Machine Learning ------------------
+1 - Rekognition Overview | 01:51
+10 - Personalize Overview | 01:36
+11 - Machine Learning Summary | 01:06
+2 - Transcribe Overview | 01:02
+3 - Polly Overview | 054
+4 - Translate Overview | 036
+5 - Lex + Connect Overview | 01:56
+6 - Comprehend Overview | 01:49
+7 - SageMaker Overview | 03:29
+8 - Forecast Overview | 01:00
+9 - Kendra Overview | 01:22
+------------------ 18 - Account Management, Billing & Support ------------------
+1 - Organizations Overview | 08:01
+10 - Estimating Costs in the Cloud - TCO Calculator & Pricing Calculator | 05:32
+11 - Tracking Costs in the Cloud - Billing Dashboard, Cost Allocation Tags, Reports | 117
+12 - Monitoring Costs in the Cloud - Billing Alarms & AWS Budgets | 03:31
+13 - AWS Trusted Advisor | 04:03
+14 - Support Plans for AWS | 03:36
+15 - Account Best Practices Summary | 01:28
+16 - Billing Summary | 01:29
+2 - Organizations Hands On | 100
+3 - Organizations Consolidated Billing | 02:23
+4 - AWS Control Tower Overview | 053
+5 - AWS Control Tower Hands On | 05:44
+6 - Pricing Models of the Cloud | 128
+7 - Savings Plan Overview | 03:59
+8 - Compute Optimizer Overview | 051
+9 - Billing & Costing Tools Overview | 01:00
+------------------ 19 - Advanced Identity ------------------
+1 - Security Token Service (STS) Overview | 01:43
+2 - Cognito Overview | 01:07
+3 - Directory Services Overview | 02:54
+4 - Single Sign-On (SSO) Overview | 01:54
+5 - Advanced Identity - Summary | 057
+------------------ 2 - Code & Slides Download ------------------
+------------------ 20 - Other Services ------------------
+1 - Other Services - Section Intro | 045
+10 - CloudEndure Overview | 02:03
+11 - AWS DataSync | 01:04
+2 - WorkSpaces Overview | 01:49
+3 - AppStream 2.0 Overview | 01:32
+4 - Sumerian Overview | 01:00
+5 - IoT Core Overview | 01:14
+6 - Elastic Transcoder Overview | 01:13
+7 - Device Farm Overview | 01:16
+8 - AWS Backup Overview | 01:00
+9 - Disaster Recovery Strategies | 02:29
+------------------ 21 - AWS Architecting & Ecosystem ------------------
+1 - AWS WhitePapers Well-Architected Framework | 04:59
+10 - AWS Knowledge Center | 054
+2 - 1st pillar Operational Excellence | 03:31
+3 - 2nd pillar Security | 04:14
+4 - 3rd pillar Reliability | 03:15
+5 - 4th pillar Performance Efficiency | 03:43
+6 - 5th pillar Cost Optimization | 03:59
+7 - AWS Well-Architected Tool | 02:50
+8 - Right Sizing | 01:42
+9 - AWS Ecosystem | 06:47
+------------------ 22 - Preparing for the Exam + Practice Exam - AWS Certified Cloud Practitioner ------------------
+1 - Words on Other Services | 01:47

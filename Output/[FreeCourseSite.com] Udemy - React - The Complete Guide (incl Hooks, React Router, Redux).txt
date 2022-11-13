@@ -1,0 +1,475 @@
+------------------ 01 - Getting Started ------------------
+001 Welcome To The Course_ | 01:05
+002 What is React.js_ | 04:37
+003 Why React Instead Of _Just JavaScript__ | 07:26
+004 Building Single-Page Applications (SPAs) with React | 01:34
+005 Exploring React.js Alternatives (Angular _ Vue) | 03:33
+007 About This Course & Course Outline | 08:28
+008 The Two Ways (Paths) Of Taking This Course | 04:22
+009 Getting The Most Out Of This Course | 04:16
+010 Setting Up The Course Dev Environment (Code Editor) | 04:55
+------------------ 02 - JavaScript Refresher ------------------
+001 Module Introduction | 01:36
+002 Understanding _let_ and _const_ | 03:05
+003 Arrow Functions | 05:27
+004 Exports and Imports | 04:44
+005 Understanding Classes | 04:38
+006 Classes, Properties and Methods | 03:03
+007 The Spread & Rest Operator | 06:30
+008 Destructuring | 03:14
+009 Reference and Primitive Types Refresher | 04:26
+010 Refreshing Array Functions | 02:46
+011 Wrap Up | 052
+------------------ 03 - React Basics & Working With Components ------------------
+001 Module Introduction | 03:44
+002 What Are Components_ And Why Is React All About Them_ | 07:11
+003 React Code Is Written In A _Declarative Way__ | 03:42
+005 Creating a new React Project | 12:24
+007 Analyzing a Standard React Project | 11:51
+008 Introducing JSX | 03:58
+009 How React Works | 04:23
+010 Building a First Custom Component | 09:01
+011 Writing More Complex JSX Code | 05:05
+012 Adding Basic CSS Styling | 04:47
+013 Outputting Dynamic Data & Working with Expressions in JSX | 08:21
+014 Passing Data via _props_ | 12:38
+015 Adding _normal_ JavaScript Logic to Components | 05:57
+016 Splitting Components Into Multiple Components | 147
+017 The Concept of _Composition_ (_children props_) | 13:07
+018 A First Summary | 04:06
+019 A Closer Look At JSX | 09:10
+020 Organizing Component Files | 03:05
+021 An Alternative Function Syntax | 02:40
+------------------ 04 - React State & Working with Events ------------------
+001 Module Introduction | 02:27
+002 Listening to Events & Working with Event Handlers | 09:39
+003 How Component Functions Are Executed | 05:44
+004 Working with _State_ | 154
+005 A Closer Look at the _useState_ Hook | 07:37
+007 Adding Form Inputs | 09:59
+008 Listening to User Input | 05:17
+009 Working with Multiple States | 06:44
+010 Using One State Instead (And What's Better) | 04:51
+011 Updating State That Depends On The Previous State | 04:37
+012 Handling Form Submission | 04:55
+013 Adding Two-Way Binding | 02:58
+014 Child-to-Parent Component Communication (Bottom-up) | 13:57
+015 Lifting The State Up | 07:00
+016 Controlled vs Uncontrolled Components & Stateless vs Stateful Components | 05:22
+------------------ 05 - Rendering Lists & Conditional Content ------------------
+001 Module Introduction | 046
+002 Rendering Lists of Data | 07:08
+003 Using Stateful Lists | 04:30
+004 Understanding _Keys_ | 06:59
+005 Outputting Conditional Content | 06:47
+006 Adding Conditional Return Statements | 05:22
+007 Demo App_ Adding a Chart | 07:25
+008 Adding Dynamic Styles | 07:28
+009 Wrap Up & Next Steps | 11:04
+------------------ 06 - Styling React Components ------------------
+001 Module Introduction | 03:44
+002 Setting Dynamic Inline Styles | 08:59
+003 Setting CSS Classes Dynamically | 05:01
+004 Introducing Styled Components | 09:46
+005 Styled Components & Dynamic Props | 08:31
+006 Styled Components & Media Queries | 02:27
+007 Using CSS Modules | 06:58
+008 Dynamic Styles with CSS Modules | 05:31
+------------------ 07 - Debugging React Apps ------------------
+001 Module Introduction | 01:35
+002 Understanding React Error Messages | 06:20
+003 Analyzing Code Flow & Warnings | 05:54
+004 Working with Breakpoints | 06:04
+005 Using the React DevTools | 05:59
+------------------ 08 - Time to Practice_ A Complete Practice Project ------------------
+001 Module Introduction | 02:56
+002 Adding a _User_ Component | 07:07
+003 Adding a re-usable _Card_ Component | 08:38
+004 Adding a re-usable _Button_ Component | 03:50
+005 Managing the User Input State | 04:57
+006 Adding Validation & Resetting Logic | 04:35
+007 Adding a Users List Component | 146
+008 Managing a List Of Users via State | 09:27
+009 Adding The _ErrorModal_ Component | 08:05
+010 Managing the Error State | 08:57
+------------------ 09 - Diving Deeper_ Working with Fragments, Portals & _Refs_ ------------------
+001 Module Introduction | 049
+002 JSX Limitations & Workarounds | 08:47
+003 Creating a Wrapper Component | 04:15
+004 React Fragments | 02:43
+005 Introducing React Portals | 04:20
+006 Working with Portals | 12:24
+007 Working with _ref_s | 11:48
+008 Controlled vs Uncontrolled Components | 03:04
+------------------ 10 - Advanced_ Handling Side Effects, Using Reducers & Using the Context API ------------------
+001 Module Introduction | 01:35
+002 What are _Side Effects_ & Introducing useEffect | 06:52
+003 Using the useEffect() Hook | 158
+004 useEffect & Dependencies | 09:01
+006 Using the useEffect Cleanup Function | 08:56
+007 useEffect Summary | 03:38
+008 Introducing useReducer & Reducers In General | 09:17
+009 Using the useReducer() Hook | 14:12
+010 useReducer & useEffect | 09:53
+012 useReducer vs useState for State Management | 03:35
+013 Introducing React Context (Context API) | 07:22
+014 Using the React Context API | 145
+015 Tapping Into Context with the useContext Hook | 01:43
+016 Making Context Dynamic | 04:35
+017 Building & Using a Custom Context Provider Component | 09:07
+018 React Context Limitations | 02:46
+019 Learning the _Rules of Hooks_ | 07:10
+020 Refactoring an Input Component | 06:06
+021 Diving into _Forward Refs_ | 13:39
+------------------ 11 - Practice Project_ Building a Food Order App ------------------
+001 Module Introduction | 02:49
+002 Starting Setup | 04:10
+003 Adding a _Header_ Component | 09:07
+004 Adding the _Cart_ Button Component | 05:26
+005 Adding a _Meals_ Component | 09:08
+006 Adding Individual Meal Items & Displaying Them | 09:30
+007 Adding a Form | 109
+009 Working on the _Shopping Cart_ Component | 05:11
+010 Adding a Modal via a React Portal | 07:43
+011 Managing Cart & Modal State | 149
+012 Adding a Cart Context | 07:43
+013 Using the Context | 04:52
+014 Adding a Cart Reducer | 146
+015 Working with Refs & Forward Refs | 150
+016 Outputting Cart Items | 07:23
+017 Working on a More Complex Reducer Logic | 05:30
+018 Making Items Removable | 08:19
+019 Using the useEffect Hook | 07:45
+------------------ 12 - A Look Behind The Scenes Of React & Optimization Techniques ------------------
+001 Module Introduction | 02:17
+002 How React Really Works | 07:23
+003 Component Updates In Action | 06:52
+004 A Closer Look At Child Component Re-Evaluation | 141
+005 Preventing Unnecessary Re-Evaluations with React.memo() | 11:36
+006 Preventing Function Re-Creation with useCallback() | 04:13
+007 useCallback() and its Dependencies | 07:11
+008 A First Summary | 04:01
+009 A Closer Look At State & Components | 03:30
+010 Understanding State Scheduling & Batching | 09:05
+011 Optimizing with useMemo() | 09:02
+------------------ 13 - An Alternative Way Of Building Components_ Class-based Components ------------------
+001 Module Introduction | 02:11
+002 What & Why | 04:53
+003 Adding a First Class-based Component | 06:55
+004 Working with State & Events | 11:38
+005 The Component Lifecycle (Class-based Components Only_) | 05:20
+006 Lifecycle Methods In Action | 11:47
+007 Class-based Components & Context | 04:54
+008 Class-based vs Functional Components_ A Summary | 02:42
+009 Introducing Error Boundaries | 09:53
+------------------ 14 - Sending Http Requests (e.g. Connecting to a Database) ------------------
+001 Module Introduction | 01:46
+002 How To (Not) Connect To A Database | 03:32
+004 Our Starting App & Backend | 03:53
+005 Sending a GET Request | 136
+006 Using async _ await | 02:02
+007 Handling Loading & Data States | 04:46
+008 Handling Http Errors | 11:13
+009 Using useEffect() For Requests | 06:27
+010 Preparing The Project For The Next Steps | 06:16
+011 Sending a POST Request | 09:17
+012 Wrap Up | 01:16
+------------------ 15 - Building Custom React Hooks ------------------
+001 Module Introduction | 01:25
+002 What are _Custom Hooks__ | 01:44
+003 Creating a Custom React Hook Function | 06:39
+004 Using Custom Hooks | 04:45
+005 Configuring Custom Hooks | 05:51
+006 Onwards To A More Realistic Example | 06:46
+007 Building a Custom Http Hook | 09:16
+008 Using the Custom Http Hook | 07:45
+009 Adjusting the Custom Hook Logic | 08:45
+010 Using The Custom Hook In More Components | 08:54
+------------------ 16 - Working with Forms & User Input ------------------
+001 Module Introduction | 01:36
+002 Our Starting Setup | 01:42
+003 What's So Complex About Forms_ | 05:08
+004 Dealing With Form Submission & Getting User Input Values | 104
+005 Adding Basic Validation | 03:58
+006 Providing Validation Feedback | 03:54
+007 Handling the _was touched_ State | 05:41
+008 React To Lost Focus | 04:16
+009 Refactoring & Deriving States | 09:07
+010 Managing The Overall Form Validity | 07:30
+011 Adding A Custom Input Hook | 12:44
+012 Re-Using The Custom Hook | 02:55
+013 A Challenge For You_ | 01:42
+014 Applying Our Hook & Knowledge To A New Form | 11:05
+015 Summary | 03:17
+016 Bonus_ Using useReducer() | 08:23
+------------------ 17 - Practice Project_ Adding Http & Forms To The Food Order App ------------------
+001 Module Introduction | 03:21
+002 Moving _Meals_ Data To The Backend | 04:05
+003 Fetching Meals via Http | 09:28
+004 Handling the Loading State | 04:01
+005 Handling Errors | 07:45
+006 Adding A Checkout Form | 147
+007 Reading Form Values | 04:51
+008 Adding Form Validation | 12:05
+009 Submitting & Sending Cart Data | 06:48
+010 Adding Better User Feedback | 09:29
+011 Summary | 01:31
+------------------ 18 - Diving into Redux (An Alternative To The Context API) ------------------
+001 Module Introduction | 01:05
+002 Another Look At State In React Apps | 05:14
+003 Redux vs React Context | 06:19
+004 How Redux Works | 05:48
+005 Exploring The Core Redux Concepts | 15:15
+006 More Redux Basics | 03:04
+007 Preparing a new Project | 02:00
+008 Creating a Redux Store for React | 04:55
+009 Providing the Store | 03:13
+010 Using Redux Data in React Components | 05:08
+011 Dispatching Actions From Inside Components | 03:33
+012 Redux with Class-based Components | 121
+013 Attaching Payloads to Actions | 04:15
+014 Working with Multiple State Properties | 06:19
+015 How To Work With Redux State Correctly | 05:07
+016 Redux Challenges & Introducing Redux Toolkit | 05:27
+017 Adding State Slices | 08:12
+018 Connecting Redux Toolkit State | 04:48
+019 Migrating Everything To Redux Toolkit | 06:20
+020 Working with Multiple Slices | 11:51
+021 Reading & Dispatching From A New Slice | 06:57
+022 Splitting Our Code | 05:04
+023 Summary | 03:53
+------------------ 19 - Advanced Redux ------------------
+001 Module Introduction | 040
+002 Redux & Side Effects (and Asynchronous Code) | 03:27
+003 Refresher _ Practice_ Part 1_2 | 212
+004 Refresher _ Practice_ Part 2_2 | 18:00
+005 Redux & Async Code | 04:28
+006 Frontend Code vs Backend Code | 05:41
+007 Where To Put Our Logic | 09:00
+008 Using useEffect with Redux | 06:01
+010 Handling Http States & Feedback with Redux | 12:50
+011 Using an Action Creator Thunk | 12:07
+012 Getting Started with Fetching Data | 08:40
+013 Finalizing the Fetching Logic | 05:17
+014 Exploring the Redux DevTools | 05:38
+015 Summary | 01:53
+------------------ 20 - Building a Multi-Page SPA with React Router ------------------
+001 Module Introduction | 02:53
+002 What is Routing & Why_ | 05:06
+003 Installing React Router | 02:43
+004 Defining & Using Routes | 132
+005 Working with Links | 06:54
+006 Using NavLinks | 03:26
+007 Adding Dynamic Routes with Params | 06:21
+008 Extracting Route Params | 02:26
+009 Using _Switch_ and _exact_ For Configuring Routes | 06:55
+010 Working with Nested Routes | 03:53
+011 Redirecting The User | 02:25
+012 Time to Practice_ Onwards to a New Project | 11:01
+013 Practice Redirecting & Extracting Params | 03:57
+014 Practicing Nested Routes | 02:57
+015 Adding a Layout Wrapper Component | 06:46
+016 Adding Dummy Data & More Content | 05:17
+017 Outputting Data on the _Details_ Page | 06:08
+018 Adding a _Not Found_ Page | 03:38
+019 Implementing Programmatic (Imperative) Navigation | 04:15
+020 Preventing Possibly Unwanted Route Transitions with the _Prompt_ Component | 07:27
+021 Working with Query Parameters | 13:41
+022 Getting Creative With Nested Routes | 04:17
+023 Writing More Flexible Routing Code | 08:43
+024 Sending & Getting Quote Data via Http | 17:33
+025 Adding the _Comments_ Features | 18:40
+026 Upgrading To React Router v6 | 29:58
+------------------ 21 - Deploying React Apps ------------------
+001 Module Introduction | 01:40
+002 Deployment Steps | 03:35
+003 Adding Lazy Loading | 13:27
+004 Building The Code For Production | 03:42
+005 Getting Started With Deployment (Uploading Files) | 07:50
+006 Exploring Routing Issues & Finishing Deployment | 07:49
+------------------ 22 - Adding Authentication To React Apps ------------------
+001 Module Introduction | 01:39
+002 What, How & Why_ | 12:12
+004 Starting Setup & First Steps | 04:45
+005 Adding User Signup | 15:33
+006 Showing Feedback To The User | 05:36
+007 Adding User Login | 06:36
+008 Managing The Auth State With Context | 11:49
+009 Using The Token For Requests To Protected Resources | 11:08
+010 Redirecting The User | 02:59
+011 Adding Logout | 02:43
+012 Protecting Frontend Pages | 07:01
+013 Persisting The User Authentication Status | 07:06
+014 Adding Auto-Logout | 07:57
+015 Finishing Steps | 11:10
+------------------ 23 - A (Pretty Deep Dive) Introduction to Next.js ------------------
+001 Module Introduction | 02:08
+002 What is NextJS_ | 04:45
+003 Key Feature 1_ Built-in Server-side Rendering (Improved SEO_) | 06:37
+004 Key Feature 2_ Simplified Routing with File-based Routing | 03:13
+005 Key Feature 3_ Build Fullstack Apps | 01:50
+006 Creating a New Next.js Project & App | 05:40
+007 Analyzing the Created Project | 02:52
+008 Adding First Pages | 06:06
+009 Adding Nested Paths & Pages (Nested Routes) | 03:47
+010 Creating Dynamic Pages (with Parameters) | 03:37
+011 Extracting Dynamic Parameter Values | 04:08
+012 Linking Between Pages | 07:14
+013 Onwards to a bigger Project_ | 03:32
+014 Preparing the Project Pages | 03:42
+015 Outputting a List of Meetups | 05:04
+016 Adding the New Meetup Form | 03:55
+017 The __app.js_ File & Layout Wrapper | 06:17
+018 Using Programmatic (Imperative) Navigation | 03:47
+019 Adding Custom Components & CSS Modules | 101
+020 How Pre-rendering Works & Which Problem We Face | 05:52
+021 Data Fetching for Static Pages | 08:56
+022 More on Static Site Generation (SSG) | 05:44
+023 Exploring Server-side Rendering (SSR) with _getServerSideProps_ | 06:27
+024 Working with Params for SSG Data Fetching | 05:14
+025 Preparing Paths with _getStaticPaths_ & Working With Fallback Pages | 07:16
+026 Introducing API Routes | 06:21
+027 Working with MongoDB | 09:32
+028 Sending Http Requests To Our API Routes | 06:50
+029 Getting Data From The Database | 07:10
+030 Getting Meetup Details Data & Preparing Pages | 09:42
+031 Adding _head_ Metadata | 09:19
+032 Deploying Next.js Projects | 12:27
+033 Using Fallback Pages & Re-deploying | 04:13
+034 Summary | 02:16
+------------------ 24 - Animating React Apps ------------------
+001 Module Introduction | 02:59
+002 Preparing the Demo Project | 04:56
+003 Using CSS Transitions | 04:34
+004 Using CSS Animations | 05:32
+005 CSS  Transition & Animations Limitations | 04:04
+006 Using ReactTransitionGroup | 12:20
+007 Using the Transition Component | 03:24
+008 Wrapping the Transition Component | 03:17
+009 Animation Timings | 03:14
+010 Transition Events | 02:33
+011 The CSSTransition Component | 05:24
+012 Customizing CSS Classnames | 02:31
+013 Animating Lists | 06:53
+014 Alternative Animation Packages | 04:29
+015 Wrap Up | 01:57
+------------------ 25 - Replacing Redux with React Hooks ------------------
+001 Module Introduction | 01:02
+002 Starting Project & Why You Would Replace Redux | 04:20
+003 Alternative_ Using the Context API | 07:14
+004 Toggling Favorites with the Context API | 05:44
+005 Context API Summary (and why NOT to use it instead of Redux) | 02:30
+006 Getting Started with a Custom Hook as a Store | 08:12
+007 Finishing the Store Hook | 05:54
+008 Creating a Concrete Store | 04:12
+009 Using the Custom Store | 05:41
+010 Custom Hook Store Summary | 03:14
+011 Optimizing the Custom Hook Store | 04:05
+013 Wrap Up | 02:00
+------------------ 26 - Testing React Apps (Unit Tests) ------------------
+001 Module Introduction | 01:24
+002 What & Why_ | 03:24
+003 Understanding Different Kinds Of Tests | 04:05
+004 What To Test & How To Test | 01:29
+005 Understanding the Technical Setup & Involved Tools | 02:39
+006 Running a First Test | 07:16
+007 Writing Our First Test | 115
+008 Grouping Tests Together With Test Suites | 02:14
+009 Testing User Interaction & State | 14:01
+010 Testing Connected Components | 03:19
+011 Testing Asynchronous Code | 09:12
+012 Working With Mocks | 08:31
+013 Summary & Further Resources | 03:47
+------------------ 27 - React + TypeScript ------------------
+001 Module Introduction | 01:27
+002 What & Why_ | 06:34
+003 Installing & Using TypeScript | 06:38
+004 Exploring the Base Types | 03:55
+005 Working with Array & Object Types | 05:34
+006 Understanding Type Inference | 02:47
+007 Using Union Types | 02:48
+008 Understanding Type Aliases | 02:43
+009 Functions & Function Types | 05:19
+010 Diving Into Generics | 08:01
+012 Creating a React + TypeScript Project | 08:34
+013 Working with Components & TypeScript | 05:41
+014 Working with Props & TypeScript | 14:20
+015 Adding a Data Model | 09:10
+016 Time to Practice_ Exercise Time_ | 07:02
+017 Form Submissions In TypeScript Projects | 05:21
+018 Working with refs & useRef | 157
+019 Working with _Function Props_ | 07:26
+020 Managing State & TypeScript | 05:13
+021 Adding Styling | 02:19
+022 Time to Practice_ Removing a Todo | 09:28
+023 The Context API & TypeScript | 13:56
+024 Summary | 02:19
+025 Bonus_ Exploring tsconfig.json | 05:47
+------------------ 28 - Optional_ React Hooks Introduction & Summary ------------------
+001 Module Introduction | 02:11
+002 What Are React Hooks_ | 04:56
+003 The Starting Project | 04:52
+004 Getting Started with useState() | 09:20
+005 More on useState() & State Updating | 11:54
+006 Array Destructuring | 02:34
+007 Multiple States | 03:47
+008 Rules of Hooks | 02:21
+009 Passing State Data Across Components | 07:56
+010 Sending Http Requests | 07:17
+011 useEffect() & Loading Data | 08:06
+012 Understanding useEffect() Dependencies | 02:21
+013 More on useEffect() | 09:37
+014 What's useCallback()_ | 05:29
+015 Working with Refs & useRef() | 05:21
+016 Cleaning Up with useEffect() | 03:21
+017 Deleting Ingredients | 02:29
+018 Loading Errors & State Batching | 08:48
+020 Understanding useReducer() | 09:43
+021 Using useReducer() for the Http State | 140
+022 Working with useContext() | 08:27
+023 Performance Optimizations with useMemo() | 130
+024 Getting Started with Custom Hooks | 13:45
+025 Sharing Data Between Custom Hooks & Components | 14:58
+026 Using the Custom Hook | 08:11
+027 Wrap Up | 03:05
+------------------ 29 - Optional_ React Summary & Core Feature Walkthrough ------------------
+001 Module Introduction | 02:17
+002 What Is React_ | 03:48
+003 Why React_ | 07:26
+004 Building SPAs (Single Page Applications) | 02:01
+005 React Alternatives | 03:07
+006 Creating a React Project | 08:16
+007 Setting Up A Code Editor | 03:04
+008 Diving Into The Created Project | 06:31
+009 How React Works & Understanding Components | 07:37
+010 More Component Work & Styling with CSS Classes | 05:34
+011 Building & Re-Using Another Component | 07:19
+012 Working with _props_ & Dynamic Content | 05:18
+013 Handling Events | 06:41
+014 Adding More Components | 05:41
+015 Introducing State | 08:19
+016 Working with _Event Props_ (Passing Function As Props) | 07:08
+018 Adding Routing | 16:52
+019 Adding Links & Navigation | 05:21
+020 Styling with CSS Modules | 05:46
+021 Outputting Lists of Data | 05:50
+022 Adding More React Components | 09:48
+023 Building Wrapper Components with props.children | 08:40
+024 Adding a Form | 08:58
+025 Getting User Input & Handling Form Submission | 09:45
+026 Preparing the App for Http | 06:52
+027 Sending a POST Request | 05:18
+028 Navigating Programmatically | 03:42
+029 Getting Started with Fetching Data | 09:25
+030 Using the useEffect() Hook | 108
+031 Introducing React Context | 11:03
+032 Context Logic & Different Ways Of Updating State | 05:55
+033 Using Context In Components | 12:10
+034 More Context Usage | 06:54
+035 Summary | 01:05
+------------------ 30 - Course Roundup ------------------
+001 What Now_ Next Steps You Could Take_ | 03:19
+002 Explore The React Ecosystem_ | 04:28
+003 Finishing Thoughts | 01:11
+------------------ 31 - This Course Got Updated_ ------------------
+001 Course Update Overview, Explanation & Migration Guide | 14:07
