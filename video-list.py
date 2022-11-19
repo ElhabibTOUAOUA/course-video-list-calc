@@ -3,7 +3,7 @@ import cv2
 import datetime
 # import re
 
-base_path = "E:\Courses\The Coding Interview Bootcamp Algorithms  Data Structures"
+base_path = "E:\Courses\Web Development\[FreeCourseSite.com] Udemy - Advanced CSS and Sass Flexbox, Grid, Animations and More!"
 course_name = base_path.split('\\')[-1]
 dirTree = next(os.walk(base_path))[1]
 video_formats = ['.mp4', '.mkv']

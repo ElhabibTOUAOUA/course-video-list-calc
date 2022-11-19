@@ -2,7 +2,7 @@ import os
 import cv2
 import datetime
 
-base_path = "E:\Courses\Web Development\[FreeCourseSite.com] Udemy - Advanced CSS and Sass Flexbox, Grid, Animations and More!"
+base_path = "E:\Courses\Web Development\Advanced CSS and Sass Flexbox, Grid, Animations and More!"
 course_name = base_path.split('\\')[-1]
 dirTree = next(os.walk(base_path))[1]
 

@@ -5,7 +5,7 @@ import re
 from pymediainfo import MediaInfo
 
 
-base_path = "E:\Courses\Web Development\[FreeCourseSite.com] Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)"
+base_path = "E:\Courses\Web Development\React - The Complete Guide (incl Hooks, React Router, Redux)"
 course_name = base_path.split('\\')[-1]
 dirTree = next(os.walk(base_path))[1]
 

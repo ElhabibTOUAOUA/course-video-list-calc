@@ -1,7 +1,7 @@
 ------------------ 01 Welcome, Welcome, Welcome! ------------------
 001 Welcome to the Most Advanced CSS Course Ever! | 03:55
 003 Setting up Our Tools | 02:53
------------------- 02 Natours Project — Setup and First Steps (Part 1) ------------------
+------------------ 02 Natours Project â€” Setup and First Steps (Part 1) ------------------
 001 Section Intro | 0:45
 002 Project Overview | 05:43
 003 Building the Header - Part 1 | 24:23
@@ -30,7 +30,7 @@
 006 NPM Packages_ Let's Install Sass Locally | 13:49
 007 NPM Scripts_ Let's Write and Compile Sass Locally | 13:11
 008 The Easiest Way of Automatically Reloading a Page on File Changes | 06:23
------------------- 05 Natours Project — Using Advanced CSS and Sass (Part 2) ------------------
+------------------ 05 Natours Project â€” Using Advanced CSS and Sass (Part 2) ------------------
 001 Section Intro | 0:55
 002 Converting Our CSS Code to Sass_ Variables and Nesting | 11:17
 003 Implementing the 7-1 CSS Architecture with Sass | 17:34
@@ -55,7 +55,7 @@
 022 Building the Navigation - Part 3 | 15:36
 023 Building a Pure CSS Popup - Part 1 | 25:14
 024 Building a Pure CSS Popup - Part 2 | 16:55
------------------- 06 Natours Project — Advanced Responsive Design (Part 3) ------------------
+------------------ 06 Natours Project â€” Advanced Responsive Design (Part 3) ------------------
 001 Section Intro | 01:00
 002 Mobile-First vs Desktop-First and Breakpoints | 17:36
 003 Let's Use the Power of Sass Mixins to Write Media Queries | 28:09
@@ -69,7 +69,7 @@
 011 Testing for Browser Support with @supports | 21:43
 012 Setting up a Simple Build Process with NPM Scripts | 20:56
 013 Wrapping up the Natours Project_ Final Considerations | 13:59
------------------- 07 Trillo Project — Master Flexbox! ------------------
+------------------ 07 Trillo Project â€” Master Flexbox! ------------------
 001 Section Intro | 01:03
 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox | 06:31
 003 A Basic Intro to Flexbox_ The Flex Container | 15:08
@@ -109,7 +109,7 @@
 014 Aligning Tracks | 13:00
 015 Using min-content, max-content and the minmax() function | 16:19
 016 Responsive Layouts with auto-fit and auto-fill | 10:57
------------------- 09 Nexter Project — Master CSS Grid Layouts! ------------------
+------------------ 09 Nexter Project â€” Master CSS Grid Layouts! ------------------
 001 Project Overview and Setup | 11:32
 002 Building the Overall Layout - Part 1 | 15:34
 003 Building the Overall Layout - Part 2 | 24:32
