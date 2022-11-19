@@ -1,0 +1,162 @@
+------------------ 01 Get Started Here ------------------
+001 How to Get Help | 01:08
+002 The All Important Coding Interview | 04:06
+003 Getting Better at Coding Questions | 05:41
+------------------ 02 A Touch of Setup ------------------
+005 Environment Setup | 01:54
+006 Repo Test Setup | 05:01
+------------------ 03 String Reversal ------------------
+008 First Question Reverse String. | 02:56
+009 String Reversal Solution 1 | 04:54
+010 String Reversal Solution 2 | 05:56
+011 String Reversal Solution 3 | 05:45
+012 Debugger Statements | 09:28
+------------------ 04 Palindromes ------------------
+013 Palindromes | 02:58
+014 Palindromes Solution 1 | 02:52
+015 Palindromes Alternate Solution | 08:55
+------------------ 05 Integer Reversal ------------------
+016 Reversing an Int | 06:50
+017 Reversing an Int Solution | 06:58
+------------------ 06 MaxChars ------------------
+018 Max Chars Problem | 05:34
+019 Max Chars Character Map | 05:07
+020 Max Chars Solution | 02:47
+021 Max Chars Solution Continued | 04:18
+------------------ 07 The Classic FizzBuzz ------------------
+022 FizzBuzz Problem Statement | 05:38
+023 Solving FizzBuzz with Style | 07:15
+------------------ 08 Array Chunking ------------------
+024 Array Chunk Problem Statement | 03:15
+025 Chunk Solution 1 | 05:50
+026 More on Chunk | 04:12
+027 Chunk Solution 2 | 04:51
+028 Even More on Chunk | 03:04
+------------------ 09 Anagrams ------------------
+029 What Are Anagrams | 08:23
+030 Solving Anagrams | 11:45
+031 Another Way to Tackle Anagrams | 08:20
+------------------ 10 Sentence Capitalization ------------------
+032 Understanding Capitalization | 04:02
+033 Capitalization Solution 1 | 03:55
+034 How Else Can We Capitalize | 06:28
+------------------ 11 Printing Steps ------------------
+035 The Steps Question | 04:19
+036 Steps Solution 1 | 06:31
+037 Steps Solution 1 Continued | 04:58
+038 Step Up Your Steps Game | 07:49
+039 More on Steps | 15:50
+------------------ 12 Two Sided Steps - Pyramids ------------------
+040 Pyramids Vs Steps | 04:51
+041 Pyramid Solution 1 | 09:56
+042 Pyramid Solution 2 | 08:38
+------------------ 13 Find The Vowels ------------------
+043 Get Your Vowels | 01:48
+044 Finding Vowels | 05:24
+045 Another Way to Find Vowels | 03:44
+------------------ 14 Enter the Matrix Spiral ------------------
+046 General Matrix Spirals | 03:26
+047 Spiral Solution | 05:16
+048 More on Spiral | 19:18
+------------------ 15 Runtime Complexity ------------------
+049 What is Runtime Complexity | 05:39
+050 Determining Complexity | 09:22
+051 More on Runtime Complexity | 11:59
+------------------ 16 Runtime Complexity in Practice - Fibonacci ------------------
+052 The Fibonacci Series | 02:36
+053 Fibonacci Series Iterative Solution | 05:10
+054 Fibonacci Series Recursive Solution | 102
+055 Memoi-....Mem-...Memoization | 11:00
+056 I Believe Its Memoization | 11:28
+------------------ 17 The Queue ------------------
+057 Whats a Data Structure | 03:42
+058 The Queue Data Structure | 06:39
+059 Implementing a Queue | 06:32
+------------------ 18 Underwater Queue Weaving ------------------
+060 Whats a Weave | 04:45
+061 How to Weave | 05:25
+------------------ 19 Stack Em Up With Stacks ------------------
+062 Stack Data Structure | 04:46
+063 Implementing a Stack | 03:54
+------------------ 20 Two Become One ------------------
+064 Queue From Stack Question | 03:25
+065 Creating a Queue From Stacks | 07:09
+066 More on Queue From Stack | 116
+------------------ 21 Linked Lists ------------------
+067 Whats a Linked List | 06:17
+068 Exercise Setup | 05:27
+069 Node Implementation | 06:34
+070 Linked Lists Constructor | 04:42
+071 Linked Lists InsertFirst | 05:12
+072 Solving Insert First | 07:04
+073 Sizing a List | 02:36
+074 Solve for Size | 05:15
+075 Get Over Here GetFirst | 055
+076 Building GetFirst | 057
+077 Find Your Tail with GetLast | 01:50
+078 GetLast Implementation | 03:20
+079 Clear that List | 01:18
+080 Clear Solution | 01:57
+081 Wheres My Head RemoveFirst | 01:36
+082 Building RemoveFirst | 02:33
+083 Bye-Bye Tail with RemoveLast | 05:05
+084 RemoveLast Implementation | 06:18
+085 A New Tail to Tell with InsertLast | 03:20
+086 Adding InsertLast | 03:43
+087 Pick Em Out with GetAt | 02:54
+088 GetAt Solution | 06:18
+089 Remove Anything with RemoveAt | 06:00
+090 RemoveAt Solution | 09:47
+091 Insert Anywhere with InsertAt | 03:56
+092 InsertAt Solution | 08:26
+093 Code Reuse in Linked Lists | 04:15
+094 List Traversal Through ForEach | 02:27
+096 Brushup on Generators | 214
+097 Linked Lists with Iterators | 04:42
+------------------ 22 Find the Midpoint ------------------
+098 Midpoint of a Linked List | 106
+099 Midpoint Solution | 03:28
+------------------ 23 Circular Lists ------------------
+100 Detecting Linked Lists Loops | 07:29
+101 Loop Solution | 04:13
+------------------ 24 Step Back From the Tail ------------------
+102 From Last Question | 06:16
+103 From Last Solution | 02:35
+------------------ 25 Building a Tree ------------------
+104 Trees Overview | 08:20
+105 Node Implementation | 06:33
+106 More on Nodes | 06:06
+107 Tree Implementation | 04:15
+108 Traverse By Breadth | 08:40
+109 Solving for Breadth-First Traversal | 05:24
+110 Depth First Traversal | 04:40
+111 Solving for Depth-First Traversal | 02:37
+------------------ 26 Tree Width with Level Width ------------------
+112 Level Width Declaration | 12:59
+113 Measuring Level Width | 06:13
+------------------ 27 My Best Friend Binary Search Trees ------------------
+114 Whats a Binary Search Tree | 07:07
+115 Binary Search Tree Implementation | 04:42
+116 BST Insertion | 04:40
+117 Do You Contain This | 02:42
+118 Solving Contains | 03:07
+------------------ 28 Validating a Binary Search Tree ------------------
+119 How to Validate a Binary Search Tree | 05:26
+120 More on Validation | 04:20
+121 Solution to Validation | 12:52
+------------------ 29 Back to Javascript - Events ------------------
+122 Whats an Eventing System | 07:10
+123 A Tip on Events | 02:09
+124 Events Solution | 05:09
+------------------ 30 Sorting With BubbleSort ------------------
+125 Sorting Algorithm Overview | 05:07
+126 BubbleSort Solution | 04:33
+------------------ 31 Sort By Selection ------------------
+127 How SelectionSort Works | 05:23
+128 Selection Sort Solution | 04:14
+------------------ 32 Ack MergeSort ------------------
+129 MergeSort Overview | 06:21
+130 The Merge Function | 06:55
+131 More on MergeSort | 05:56
+132 I Don't Like Recursion But Lets Do This Anyways | 09:49
+------------------ 33 Not Done Yet ------------------
