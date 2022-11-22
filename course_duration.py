@@ -2,9 +2,10 @@ import os
 import cv2
 import datetime
 
-base_path = "E:\Courses\Web Development\Advanced CSS and Sass Flexbox, Grid, Animations and More!"
+base_path = "E:\Courses\Self Development Courses\10X SUPERHUMAN Focus Maximize Your Brain & Focus 2020-11"
 course_name = base_path.split('\\')[-1]
 dirTree = next(os.walk(base_path))[1]
+
 
 for dir_name in dirTree:
     if (dir_name.split(' ')[0][0]).isnumeric():

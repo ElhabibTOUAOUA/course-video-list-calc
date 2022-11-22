@@ -1,4 +1,5 @@
 import os
+import sys
 import cv2
 import datetime
 
@@ -36,7 +37,7 @@ COURSE DURATION CALC FUNCTION
 
 
 def course_duration(dir_tree, course_n):
-    with open(f"Output/{course_n}_duration.txt", "w") as text_file:
+    with open(f"Output/{course_n}_duration.txt", "w", encoding="utf-8") as text_file:
         seconds = 0
         for sub_dir in dirTree:
             current_dir = f'{base_path}\\{sub_dir}'
@@ -72,7 +73,7 @@ COURSE VIDEO LIST EXTRACTION FUNCTION
 
 
 def course_video_list(course_tree, course_n):
-    with open(f"Output/{course_n}.txt", "w") as text_file:
+    with open(f"Output/{course_n}.txt", "w", encoding="utf-8") as text_file:
         for sub_dir in dirTree:
             # text_file.write("Purchase Amount: %s" % TotalAmount)
             text_file.write(f'------------------ {sub_dir} ------------------\n')
@@ -94,5 +95,5 @@ def course_video_list(course_tree, course_n):
 
 
 course_folders_filter(dirTree)
-course_duration(dirTree, course_name)
+# course_duration(dirTree, course_name)
 course_video_list(dirTree, course_name)
