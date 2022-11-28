@@ -1,0 +1,257 @@
+------------------ 01 - Introduction ------------------
+001 Course Requirements | 02:02
+003 Text Editor | 048
+004 Video Blur Fix | 01:36
+005 Course Review | 031
+------------------ 02 - Setup ------------------
+001 Get Assets | 01:44
+002 Complete Project Overview | 03:05
+003 Create Project and README.md | 01:42
+004 Setup React Application | 05:09
+005 Remove Boilerplate | 01:29
+006 Title and Favicon | 02:36
+007 Normalize.css and Global Styles | 05:41
+------------------ 03 - Landing Page ------------------
+001 Landing Page - Basic Setup | 07:33
+002 Landing Page - Structure | 04:10
+003 Styled Components - Intro | 06:45
+004 Landing Page - Complete | 08:02
+005 Wrappers Setup | 04:28
+------------------ 04 - First Components ------------------
+001 Logo and Images | 02:11
+002 Logo Component | 06:34
+------------------ 05 - React Router 6 ------------------
+001 React Router Setup | 08:40
+002 Link Component | 02:46
+003 Page Structure | 05:48
+------------------ 06 - Error Page ------------------
+001 Error Page | 05:06
+002 Auto Imports Info | 01:34
+------------------ 07 - Register Page ------------------
+001 Register Page - Intro | 05:02
+002 Register Page - Setup | 09:34
+003 FormRow Component | 08:03
+004 Alert Component | 05:27
+005 Toggle Member | 07:38
+------------------ 08 - Context ------------------
+001 Global Context - Intro | 03:17
+002 Global Context - Setup | 08:42
+003 Reducer | 02:33
+004 Display Alert - Setup | 07:07
+005 Display Alert - Complete | 06:55
+006 Clear Alert | 04:51
+------------------ 09 - Server Setup ------------------
+001 Create package.json and server.js | 02:36
+002 ES6 Modules | 02:39
+003 Basic Express Server and Nodemon | 05:01
+004 NotFoundMiddleware | 04:56
+005 ErrorHandlerMiddleware | 06:19
+006 ENV Vars | 03:13
+008 OPTIONAL !!! Mongo Atlas Account and Connection String | 08:16
+009 Connect To DB | 150
+------------------ 10 - Routes and Controllers Structure ------------------
+001 Auth Structure | 08:56
+002 Jobs Structure | 06:48
+003 Test in Postman | 07:49
+------------------ 11 - User Model ------------------
+001 User Model | 07:26
+002 Validate Email | 04:15
+------------------ 12 - Register Controller Initial Setup ------------------
+001 Basic Register Controller | 05:32
+002 Pass Error to Error Middleware | 04:18
+003 Setup express-async-errors package | 04:25
+004 Status Codes | 05:02
+------------------ 13 - Error Handling ------------------
+001 Intro | 049
+002 Missing Field Error | 08:49
+003 Unique Field Error | 03:52
+004 Check For Empty Values in Controller | 05:45
+005 CustomAPIError | 03:56
+006 BadRequestError and NotFoundError | 03:21
+007 Refactor Errors | 06:48
+008 Check For Duplicate Email in Controller | 02:00
+------------------ 14 - Hash Password ------------------
+001 Mongoose Middleware | 08:05
+002 Hash Passwords | 04:48
+------------------ 15 - JWT ------------------
+001 CreateJWT - Custom Instance Method | 03:31
+002 JWT - Overview | 05:25
+003 JWT - Setup | 06:32
+004 JWT - Secret and Lifetime | 02:41
+005 Remove Password | 03:53
+------------------ 16 - Connect Front-End and Server ------------------
+001 Concurrently | 11:03
+002 Fetch Error | 05:01
+003 Cors Error Info | 04:50
+004 Cors Package | 03:48
+005 Proxy - Intro | 03:57
+006 Proxy - Setup | 07:06
+------------------ 17 - Register User Front-End ------------------
+001 Intro | 03:20
+002 Register User - Setup | 130
+003 Axios Intro | 02:05
+004 Register User - Overview | 06:28
+005 Register User - Complete | 11:21
+006 Programmatically Navigate To Dashboard | 05:16
+007 Persist User In Local Storage | 06:53
+------------------ 18 - Login User Server ------------------
+001 Morgan NPM Package | 04:43
+002 UnAuthenticatedError Setup | 02:41
+003 Compare Password | 02:53
+004 Login Controller | 104
+------------------ 19 - Login User Front-End ------------------
+001 Login User - Setup | 05:01
+002 Login User - Complete | 05:50
+003 Login User - Refactor | 08:56
+------------------ 20 - Nested Pages and Protected Route ------------------
+001 Nested Pages - Intro | 049
+002 Dashboard Pages - Setup | 05:47
+003 Dashboard Pages - Structure | 04:54
+004 Dashboard Pages - Complete | 06:47
+005 Protected Route | 07:14
+------------------ 21 - Shared Layout ------------------
+001 Setup | 02:26
+002 Structure | 08:44
+003 React Icons | 03:21
+------------------ 22 - Navbar ------------------
+001 Navbar Structure - Intro | 02:22
+002 Navbar Structure - Complete | 07:36
+003 Toggle Sidebar | 06:08
+004 Toggle Dropdown | 03:22
+005 Logout | 09:33
+------------------ 23 - Small Sidebar ------------------
+001 Setup Links | 07:36
+002 Small Sidebar - Setup | 06:05
+003 Small Sidebar - Toggle | 03:35
+004 Small Sidebar - Nav Links | 08:40
+------------------ 24 - Big Sidebar ------------------
+001 Nav Links Component | 06:55
+002 Big Sidebar | 05:13
+------------------ 25 - Auth - Server Setup ------------------
+001 Auth - Intro | 02:08
+002 Auth - Setup | 06:41
+003 Bearer Token | 06:04
+004 Postman Token Setup | 06:38
+005 UnAuthenticated Error | 02:51
+006 Auth Complete | 09:05
+------------------ 26 - Update User - Server ------------------
+001 Update User Controller | 08:40
+002 Modified Paths | 06:11
+------------------ 27 - Profile Page ------------------
+001 Profile Page - Intro | 06:43
+002 Profile Page - Complete | 11:32
+------------------ 28 - Axios Setup ------------------
+001 Axios - Intro | 040
+002 Axios - Manual Approach | 06:46
+003 Axios - Global Setup | 05:16
+004 Axios - Custom Instance | 04:48
+005 Axios Interceptors - Intro | 04:41
+006 Axios Interceptors - Complete | 05:57
+------------------ 29 - Update User - Front-End ------------------
+001 Update User - Intro | 01:42
+002 Update User - Complete | 07:29
+003 Logout User | 06:59
+------------------ 30 - Job Model and CreateJob Controller ------------------
+001 Job Model - Intro | 03:02
+002 Job Model - Complete | 05:11
+003 CreateJob Controller | 06:58
+------------------ 31 - Create Job - Front-End ------------------
+001 Job State Values | 04:25
+002 Add Job Page - Intro | 04:51
+003 Add Job Page - Structure Complete | 13:36
+004 JobType Select | 04:47
+005 Form Row Select | 06:21
+006 Handle Change | 07:16
+007 Clear Values | 09:07
+008 Create Job - Intro | 04:10
+009 Create Job - Complete | 11:06
+------------------ 32 - Get All Jobs - Server ------------------
+001 Get All Jobs Controller | 05:51
+------------------ 33 - Get All Jobs - Front-End ------------------
+001 Get All Jobs - State Values | 02:30
+002 Get All Jobs Request | 09:06
+003 Logout User and Clear Alert | 06:21
+004 All Jobs Page Setup | 06:14
+005 Jobs Container | 11:24
+006 Moment.js | 04:23
+007 Job Component | 11:51
+008 JobType Component | 06:29
+------------------ 34 - Edit, Delete Job - Setup ------------------
+001 SetEditJob Functionality | 11:46
+------------------ 35 - Edit, Delete Job - Server ------------------
+001 Edit Job Controller | 09:52
+002 Alternative Approach | 09:01
+003 Check Permissions - Intro | 02:57
+004 Check Permissions - Complete | 08:46
+005 Delete Job Controller | 04:34
+------------------ 36 - Edit, Delete Job - Front-End ------------------
+001 Delete Job Request | 08:23
+002 Edit Job Request | 12:31
+------------------ 37 - Mock Data ------------------
+001 Mockaroo | 145
+002 Populate DB | 08:04
+------------------ 38 - Stats - Server ------------------
+001 Aggregation Pipeline -Match Stage | 05:58
+002 Aggregation Pipeline - Group Stage | 03:00
+003 Reduce Stats | 03:20
+004 Default Stats | 04:35
+------------------ 39 - Stats - Front-End ------------------
+001 Fetch Stats | 07:17
+002 Stats Page Structure | 08:14
+003 Stats Container | 05:24
+004 Stats Item | 03:28
+------------------ 40 - Monthly Applications - Server ------------------
+001 Aggregation Based on Year and Month | 07:45
+002 Refactor Data | 06:49
+------------------ 41 - Monthly Applications - Fron-End ------------------
+001 Charts Container | 07:37
+003 Install Recharts Library | 01:51
+004 Bar Chart | 06:10
+005 Area Chart | 03:43
+------------------ 42 - FilterSort - Server ------------------
+001 Big Picture | 03:15
+002 Current Setup Issue | 05:09
+003 Query Params - Status | 06:10
+004 Query Params - JobType | 02:19
+005 Query Params - Search | 04:09
+006 Query Params - Sort | 05:00
+------------------ 43 - FilterSort - Front-End ------------------
+001 Search - State Setup | 06:04
+002 Search Component - Initial Setup | 07:38
+003 Search Component - Complete | 06:12
+004 Clear Filters | 02:30
+005 GetJobs Request | 05:40
+------------------ 44 - Pagination - Server ------------------
+001 Pagination - Intro | 04:00
+002 Page and Limit | 06:18
+003 Total Jobs and Number of Pages | 04:20
+------------------ 45 - Pagination - Front-End ------------------
+001 Button Container - Setup | 03:12
+002 Button Container - Structure | 03:46
+003 List Of Buttons | 05:38
+004 Change Page | 04:40
+005 Prev and Next Page | 04:28
+006 Trigger New Request | 05:19
+------------------ 46 - Build Front-End Application ------------------
+001 Fix Warnings and Logout User | 03:07
+002 Build Front-End Application | 141
+------------------ 47 - Security Packages ------------------
+001 Security Packages - HELMET, XSS-CLEAN, EXPRESS-MONGO-SANITIZE | 03:41
+002 Security Packages - EXPRESS-RATE-LIMITER | 03:39
+------------------ 48 - Extra Content ------------------
+001 Extra Content Info | 01:03
+------------------ 49 - Search - Alternative Setup ------------------
+001 Debounce - Intro | 02:23
+002 Debounce - Vanilla JS | 09:55
+003 Local Search | 04:24
+004 Debounce - Complete | 08:26
+------------------ 50 - Test User ------------------
+001 Test User - Setup | 08:53
+002 Test User - Restrict Access | 07:51
+003 Test User - Fix Front-End | 05:10
+------------------ 51 - Deployment ------------------
+001 Prepare for Deployment | 06:55
+002 Setup Github Repo | 03:02
+003 Render Signup | 03:30
+004 Deploy Application | 06:29
+------------------ 52 - Bonus ------------------

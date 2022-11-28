@@ -2,7 +2,8 @@ import os
 import cv2
 import datetime
 
-base_path = "G:\Courses\How to join your dream company, The complete guide to success in any interview!"
+# base_path = "E:\Courses\Web Development\Udemy - 20 Web Projects With Vanilla JavaScript 2020"
+base_path = os.path.join("E:\\","Courses", "Web Development","Udemy - 20 Web Projects With Vanilla JavaScript 2020")
 course_name = base_path.split('\\')[-1]
 dirTree = next(os.walk(base_path))[1]
 video_formats = ['.mp4', '.mkv']

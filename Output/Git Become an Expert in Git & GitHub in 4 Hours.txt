@@ -1,0 +1,54 @@
+------------------ 1. Introduction ------------------
+1. Introduction to Course | 07:21
+2. What is Git | 07:34
+3. Git vs GitHub | 04:00
+4. Installing Git | 11:07
+------------------ 2. The Terminal ------------------
+2. Section Introduction | 02:07
+3. Introduction to Terminal | 11:16
+4. Moving Between Directories | 129
+5. Working with Files & Directories | 103
+------------------ 3. Git Basics ------------------
+1. Section Introduction | 01:38
+10. Creating a .gitignore | 11:06
+3. The Git Workflow | 09:34
+4. Creating a new Repository | 05:59
+5. Adding & Removing Files | 146
+6. Your First Commit | 08:38
+7. Git Checkout | 08:28
+8. Git Revert & Reset | 08:58
+9. Types of Git Reset | 07:35
+------------------ 4. Git Branches ------------------
+1. Section Introduction | 01:48
+2. What are Branches & why should you use them | 04:15
+3. Working with Branches | 07:01
+4. Editing Branches | 05:30
+5. Merging Branches | 04:59
+------------------ 5. GitHub ------------------
+1. Section Introduction | 02:25
+2. What is GitHub | 03:54
+3. Creating a GitHub Account | 05:07
+4. Creating our First GitHub Repository | 08:29
+5. Viewing Other Repositories | 07:24
+6. Download GitHub Repositories | 03:29
+------------------ 6. Using Git Remotely ------------------
+1. Section Introduction | 02:22
+2. Creating a new Remote Repository | 05:21
+3. The Push & Pull System | 05:11
+4. Pushing & Pulling to & from a GitHub Repository | 13:39
+5. Deleting Remote Branches | 159
+------------------ 7. Git GUI w SourceTree ------------------
+1. Section Introduction | 02:22
+10. PushPull Requests | 06:45
+2. What is SourceTree | 04:00
+3. Installing SourceTree | 02:21
+4. Setting up a new Repository | 01:44
+5. Introduction to the SourceTree Environment | 06:37
+6. Stage & Commit | 06:38
+7. Interaction in SourceTree | 03:58
+8. Create & Remove Branches | 04:43
+9. Merge Branches | 03:19
+------------------ 8. Goodbye ------------------
+1. Goodbye | 01:07
+------------------ 9. Bonus Lectures ------------------
+2. Git Rebase | 07:31
