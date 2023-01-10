@@ -11,7 +11,7 @@
 010 String Reversal Solution 2 | 05:56
 011 String Reversal Solution 3 | 05:45
 012 Debugger Statements | 09:28
------------------- 04 Palindromes ------------------
+------------------ 04 Paldinromes ------------------
 013 Palindromes | 02:58
 014 Palindromes Solution 1 | 02:52
 015 Palindromes Alternate Solution | 08:55
@@ -65,7 +65,7 @@
 ------------------ 16 Runtime Complexity in Practice - Fibonacci ------------------
 052 The Fibonacci Series | 02:36
 053 Fibonacci Series Iterative Solution | 05:10
-054 Fibonacci Series Recursive Solution | 102
+054 Fibonacci Series Recursive Solution | 10:02
 055 Memoi-....Mem-...Memoization | 11:00
 056 I Believe Its Memoization | 11:28
 ------------------ 17 The Queue ------------------
@@ -81,18 +81,18 @@
 ------------------ 20 Two Become One ------------------
 064 Queue From Stack Question | 03:25
 065 Creating a Queue From Stacks | 07:09
-066 More on Queue From Stack | 116
+066 More on Queue From Stack | 10:16
 ------------------ 21 Linked Lists ------------------
 067 Whats a Linked List | 06:17
 068 Exercise Setup | 05:27
 069 Node Implementation | 06:34
 070 Linked Lists Constructor | 04:42
-071 Linked Lists InsertFirst | 05:12
+071 Linked Listss InsertFirst | 05:12
 072 Solving Insert First | 07:04
 073 Sizing a List | 02:36
 074 Solve for Size | 05:15
-075 Get Over Here GetFirst | 055
-076 Building GetFirst | 057
+075 Get Over Here GetFirst | 00:55
+076 Building GetFirst | 00:57
 077 Find Your Tail with GetLast | 01:50
 078 GetLast Implementation | 03:20
 079 Clear that List | 01:18
@@ -111,10 +111,10 @@
 092 InsertAt Solution | 08:26
 093 Code Reuse in Linked Lists | 04:15
 094 List Traversal Through ForEach | 02:27
-096 Brushup on Generators | 214
+096 Brushup on Generators | 20:14
 097 Linked Lists with Iterators | 04:42
 ------------------ 22 Find the Midpoint ------------------
-098 Midpoint of a Linked List | 106
+098 Midpoint of a Linked List | 10:06
 099 Midpoint Solution | 03:28
 ------------------ 23 Circular Lists ------------------
 100 Detecting Linked Lists Loops | 07:29
@@ -158,5 +158,5 @@
 129 MergeSort Overview | 06:21
 130 The Merge Function | 06:55
 131 More on MergeSort | 05:56
-132 I Don't Like Recursion But Lets Do This Anyways | 09:49
+132 I Dont Like Recursion But Lets Do This Anyways | 09:49
 ------------------ 33 Not Done Yet ------------------

@@ -1,0 +1,141 @@
+------------------ 1. Introduction ------------------
+1. Welcome To The Course | 02:26
+2. Getting Setup | 06:35
+------------------ 2. Form Validator  Intro Project ------------------
+1. Project Intro | 01:58
+2. Project HTML | 06:20
+3. Project CSS | 13:48
+4. Adding Simple Validation | 14:43
+5. Check Required & Refactor | 09:15
+6. Check Length, Email & Password Match | 09:14
+------------------ 3. Movie Seat Booking  DOM & Local Storage ------------------
+1. Project Intro | 01:23
+2. Project HTML | 05:46
+3. Project CSS | 16:07
+4. Selecting Movie & Seats From UI | 15:14
+5. Save Data To Local Storage | 12:44
+6. Populate UI With Saved Data | 08:14
+------------------ 4. Custom Video Player  HTML5 Video API ------------------
+1. Project Intro | 02:06
+2. Project HTML | 08:21
+3. Project CSS | 09:52
+4. Play, Pause & Stop | 09:25
+5. Video Progress Bar & Timestamp | 06:42
+------------------ 5. Exchange Rate Calculator  Fetch & JSON Intro ------------------
+1. Project Intro | 01:49
+2. Project HTML | 04:29
+3. Project CSS | 10:12
+4. A Look at JSON & Fetch | 09:20
+5. Fetch Rates & Update DOM | 12:57
+------------------ 6. DOM Array Methods  forEach, map, filter, sort, reduce ------------------
+1. Project Intro | 02:07
+2. Project UI | 09:20
+3. Generate Random Users - Fetch w AsyncAwait | 07:45
+4. Output Users - forEach() & DOM Methods | 10:27
+5. Double Money - map() | 06:01
+6. Sort By Richest - sort() | 05:00
+7. Show Millionaires - filter() | 04:27
+8. Calculate Wealth - reduce() | 06:16
+------------------ 7. Menu Slider & Modal  DOM & CSS ------------------
+1. Project Intro | 01:06
+2. Project HTML | 10:11
+3. Navbar Styling | 07:33
+4. Header & Modal Styling | 12:08
+5. Menu & Modal Toggle | 10:00
+------------------ 8. Hangman Game  DOM, SVG, Events ------------------
+1. Project Intro | 01:50
+2. Draw Hangman With SVG | 11:35
+3. Main Styling | 10:55
+4. Popup & Notification Styling | 08:35
+5. Display Words Function | 11:23
+6. Letter Press Event Handler | 08:38
+7. Wrong Letters & Play Again | 09:55
+------------------ 9. Meal Finder  Fetch & MealDB API ------------------
+1. Project Intro | 01:25
+2. Project HTML & Base CSS | 10:18
+3. Search & Display Meals From API | 20:09
+4. Show Single Meal Page | 15:28
+5. Display Random Meal & Single Meal CSS | 10:21
+------------------ 10. Expense Tracker  Array Methods & Local Storage ------------------
+1. Project Intro | 01:34
+2. Project HTML | 05:10
+3. Project CSS | 14:00
+4. Show Transaction Items | 08:50
+5. Display Balance, Income & Expense | 08:20
+6. Add & Delete Transactions | 08:53
+7. Persist To Local Storage | 05:41
+------------------ 11. Music Player  HTML5 Audio API ------------------
+1. Project Intro | 01:56
+2. Project HTML | 05:41
+3. Music Container & Rotate Animation | 10:09
+4. Music Info Styling & Animation | 09:21
+5. Load, Play & Pause Song | 08:46
+6. Next, Prev Song & Progress | 12:20
+------------------ 12. Infinite Scroll Posts  Fetch, AsyncAwait, CSS Loader ------------------
+1. Project Intro | 02:31
+2. Project HTML | 03:06
+3. Project CSS & Loader Animation | 09:52
+4. Get Initial Posts From API | 07:26
+5. Add Infinite Scrolling | 06:09
+6. Filter Fetched Posts | 05:16
+------------------ 13. Typing Game  DOM, Intervals, Events ------------------
+1. Project Intro | 01:45
+2. Project HTML | 04:39
+3. Project CSS | 12:22
+4. Word Match & Score | 08:16
+5. Adding The Timer | 09:21
+6. Difficulty Setting | 08:09
+------------------ 14. Speech Text Reader  Speech Synthesis ------------------
+1. Project Intro | 01:57
+2. HTML & Output Speech Boxes | 12:17
+3. Project CSS | 17:19
+4. Get Speech Voices | 07:28
+5. Speech Buttons | 04:59
+6. Change Voice & Custom Text Box | 05:04
+------------------ 15. Memory Cards  CSS Effects, Local Storage ------------------
+1. Project Intro | 02:11
+2. Project HTML | 07:16
+3. Basic Card Styling | 10:35
+4. Card Rotation & Slide Effect | 11:03
+5. Add Card Container & Form Styling | 06:27
+6. Create Cards & Flip Effect With JS | 10:24
+7. Prev & Next Button Functionality | 06:23
+8. Set & Get Card Data From Local Storage | 13:17
+------------------ 16. Lyrics Search App  Fetch, Pagination, Lyrics.ovh API ------------------
+1. Project Intro | 01:29
+2. Project HTML & Header Stying | 09:47
+3. Form Styling | 07:15
+4. Fetching Songs & Artists | 09:49
+5. Update DOM & Add Pagination | 15:07
+6. Get & Display Song Lyrics | 10:09
+------------------ 17. Relaxer App  CSS Animations, setTimeout ------------------
+1. Project Intro | 00:51
+2. Creating The Large Circle | 10:02
+3. Creating & Animating The Pointer | 04:37
+4. Breath Animation With JS Trigger | 09:41
+------------------ 18. Breakout Game  HTML5 Canvas API ------------------
+1. Project Intro | 01:02
+2. Creating & Styling The Page | 11:15
+3. Canvas Plan Outline | 06:03
+4. Draw Ball, Paddle & Score | 11:02
+5. Creating The Bricks | 09:28
+6. Move Paddle | 12:51
+7. Move Ball & Break Bricks | 10:29
+8. Lose & Reset Game | 05:00
+------------------ 19. New Year Countdown  DOM, Date & Time ------------------
+1. Project Intro | 01:08
+2. Landing Page HTML & Styling | 11:07
+3. Create The Countdown | 11:59
+4. Dynamic Year & Spinner | 07:11
+------------------ 20. Sortable List  Drag & Drop API ------------------
+1. Project Intro | 01:39
+2. Insert List Items Into DOM | 09:34
+3. Scramble List Items | 06:43
+4. Core CSS | 12:23
+5. Drag & Drop Functionality | 14:58
+6. Check Order | 05:38
+------------------ 21. Speak Number Guessing Game  Speech Recognition ------------------
+1. Project Intro | 01:31
+2. Project UI | 08:51
+3. Capture Mic Input | 08:10
+4. Check Guessed Number | 12:50

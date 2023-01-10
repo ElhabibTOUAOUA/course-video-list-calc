@@ -1,0 +1,241 @@
+------------------ 1 - Welcome Welcome Welcome ------------------
+1 - Course Structure and Projects | 06:45
+3 - Lets Install Nodejs | 05:25
+------------------ 2 - Introduction to Nodejs and NPM ------------------
+4 - Section Intro | 00:55
+5 - What Is Nodejs and Why Use It | 07:39
+6 - Running Javascript Outside the Browser | 06:28
+7 - Using Modules 1 Core Modules | 05:59
+8 - Reading and Writing Files | 07:29
+9 - Blocking and NonBlocking Asynchronous Nature of Nodejs | 10:13
+10 - Reading and Writing Files Asynchronously | 14:16
+11 - Creating a Simple Web Server | 12:50
+12 - Routing | 15:18
+13 - Building a Very Simple API | 14:29
+14 - HTML Templating Building the Templates | 14:03
+15 - HTML Templating Filling the Templates | 20:46
+16 - Parsing Variables from URLs | 10:24
+17 - Using Modules 2 Our Own Modules | 06:34
+18 - Introduction to NPM and the packagejson File | 05:17
+19 - Types of Packages and Installs | 13:40
+20 - Using Modules 3 3rd Party Modules | 07:56
+21 - Package Versioning and Updating | 11:45
+22 - Setting up Prettier in VS Code | 11:27
+23 - Recap and Whats Next | 02:57
+------------------ 3 - Introduction to BackEnd Web Development ------------------
+24 - Section Intro | 00:47
+25 - An Overview of How the Web Works | 13:28
+26 - HTTP in Action | 05:30
+27 - FrontEnd vs BackEnd Web Development | 06:02
+28 - Static vs Dynamic vs API | 09:15
+------------------ 4 - How Nodejs Works A Look Behind the Scenes ------------------
+29 - Section Intro | 01:25
+30 - Node V8 Libuv and C | 03:48
+31 - Processes Threads and the Thread Pool | 04:22
+32 - The Nodejs Event Loop | 11:34
+33 - The Event Loop in Practice | 18:50
+34 - Events and EventDriven Architecture | 04:19
+35 - Events in Practice | 13:54
+36 - Introduction to Streams | 06:17
+37 - Streams in Practice | 16:07
+38 - How Requiring Modules Really Works | 09:40
+39 - Requiring Modules in Practice | 15:51
+------------------ 5 - Optional Asynchronous JavaScript Promises and AsyncAwait ------------------
+40 - Section Intro | 00:57
+41 - The Problem with Callbacks Callback Hell | 12:47
+42 - From Callback Hell to Promises | 06:43
+43 - Building Promises | 14:42
+44 - Consuming Promises with AsyncAwait | 07:48
+45 - Returning Values from Async Functions | 13:04
+46 - Waiting for Multiple Promises Simultaneously | 06:11
+------------------ 6 - Express Lets Start Building the Natours API ------------------
+47 - Section Intro | 00:56
+48 - What is Express | 02:02
+49 - Installing Postman | 03:26
+50 - Setting up Express and Basic Routing | 14:48
+51 - APIs and RESTful API Design | 16:08
+52 - Starting Our API Handling GET Requests | 12:20
+53 - Handling POST Requests | 15:22
+54 - Responding to URL Parameters | 11:48
+55 - Handling PATCH Requests | 07:06
+56 - Handling DELETE Requests | 02:40
+57 - Refactoring Our Routes | 06:48
+58 - Middleware and the RequestResponse Cycle | 04:48
+59 - Creating Our Own Middleware | 09:06
+60 - Using 3rdParty Middleware | 09:35
+61 - Implementing the Users Routes | 06:57
+62 - Creating and Mounting Multiple Routers | 08:04
+63 - A Better File Structure | 18:20
+64 - Param Middleware | 10:55
+65 - Chaining Multiple Middleware Functions | 07:34
+66 - Serving Static Files | 05:28
+67 - Environment Variables | 16:39
+68 - Setting up ESLint Prettier in VS Code | 13:34
+------------------ 7 - Introduction to MongoDB ------------------
+69 - Section Intro | 00:48
+70 - What is MongoDB | 08:45
+72 - OPTIONAL Installing MongoDB on macOS | 06:34
+73 - OPTIONAL Installing MongoDB on Windows | 10:02
+74 - OPTIONAL Creating a Local Database | 07:40
+75 - OPTIONAL CRUD Creating Documents | 04:18
+76 - OPTIONAL CRUD Querying Reading Documents | 12:26
+77 - OPTIONAL CRUD Updating Documents | 07:50
+78 - OPTIONAL CRUD Deleting Documents | 02:47
+79 - Using Compass App for CRUD Operations | 07:11
+80 - Creating a Hosted Database with Atlas | 04:28
+81 - Connecting to Our Hosted Database | 07:35
+------------------ 8 - Using MongoDB with Mongoose ------------------
+82 - Section Intro | 00:56
+83 - Connecting Our Database with the Express App | 12:25
+84 - What Is Mongoose | 01:54
+85 - Creating a Simple Tour Model | 07:02
+86 - Creating Documents and Testing the Model | 09:03
+87 - Intro to BackEnd Architecture MVC Types of Logic and More | 06:54
+88 - Refactoring for MVC | 06:31
+89 - Another Way of Creating Documents | 13:53
+90 - Reading Documents | 08:35
+91 - Updating Documents | 10:52
+92 - Deleting Documents | 04:10
+93 - Modelling the Tours | 18:13
+94 - Importing Development Data | 15:41
+95 - Making the API Better Filtering | 18:45
+96 - Making the API Better Advanced Filtering | 12:05
+97 - Making the API Better Sorting | 11:00
+98 - Making the API Better Limiting Fields | 06:19
+99 - Making the API Better Pagination | 14:59
+100 - Making the API Better Aliasing | 08:56
+101 - Refactoring API Features | 15:39
+102 - Aggregation Pipeline Matching and Grouping | 20:37
+103 - Aggregation Pipeline Unwinding and Projecting | 19:29
+104 - Virtual Properties | 06:24
+105 - Document Middleware | 14:29
+106 - Query Middleware | 13:55
+107 - Aggregation Middleware | 07:42
+108 - Data Validation BuiltIn Validators | 10:07
+109 - Data Validation Custom Validators | 14:02
+------------------ 9 - Error Handling with Express ------------------
+110 - Section Intro | 00:42
+111 - Debugging Nodejs with ndb | 20:29
+112 - Handling Unhandled Routes | 07:50
+113 - An Overview of Error Handling | 03:37
+114 - Implementing a Global Error Handling Middleware | 09:00
+115 - Better Errors and Refactoring | 11:13
+116 - Catching Errors in Async Functions | 14:54
+117 - Adding 404 Not Found Errors | 09:06
+118 - Errors During Development vs Production | 10:30
+119 - Handling Invalid Database IDs | 09:42
+120 - Handling Duplicate Database Fields | 06:04
+121 - Handling Mongoose Validation Errors | 08:24
+122 - Errors Outside Express Unhandled Rejections | 08:50
+123 - Catching Uncaught Exceptions | 09:16
+------------------ 10 - Authentication Authorization and Security ------------------
+124 - Section Intro | 00:59
+125 - Modelling Users | 10:00
+126 - Creating New Users | 11:20
+127 - Managing Passwords | 18:25
+128 - How Authentication with JWT Works | 08:47
+129 - Signing up Users | 16:02
+130 - Logging in Users | 26:36
+131 - Protecting Tour Routes Part 1 | 14:58
+132 - Protecting Tour Routes Part 2 | 35:15
+133 - Advanced Postman Setup | 11:36
+134 - Authorization User Roles and Permissions | 15:55
+135 - Password Reset Functionality Reset Token | 17:04
+136 - Sending Emails with Nodemailer | 23:04
+137 - Password Reset Functionality Setting New Password | 21:34
+138 - Updating the Current User Password | 16:36
+139 - Updating the Current User Data | 20:11
+140 - Deleting the Current User | 10:28
+141 - Security Best Practices | 10:14
+142 - Sending JWT via Cookie | 09:46
+143 - Implementing Rate Limiting | 07:05
+144 - Setting Security HTTP Headers | 05:19
+145 - Data Sanitization | 09:16
+146 - Preventing Parameter Pollution | 08:20
+------------------ 11 - Modelling Data and Advanced Mongoose ------------------
+147 - Section Intro | 01:02
+148 - MongoDB Data Modelling | 24:39
+149 - Designing Our Data Model | 10:58
+150 - Modelling Locations Geospatial Data | 12:26
+151 - Modelling Tour Guides Embedding | 07:48
+152 - Modelling Tour Guides Child Referencing | 04:57
+153 - Populating Tour Guides | 10:42
+154 - Modelling Reviews Parent Referencing | 08:31
+155 - Creating and Getting Reviews | 17:04
+156 - Populating Reviews | 06:06
+157 - Virtual Populate Tours and Reviews | 12:02
+158 - Implementing Simple Nested Routes | 13:30
+159 - Nested Routes with Express | 08:00
+160 - Adding a Nested GET Endpoint | 05:07
+161 - Building Handler Factory Functions Delete | 14:22
+162 - Factory Functions Update and Create | 13:22
+163 - Factory Functions Reading | 14:42
+164 - Adding a me Endpoint | 04:43
+165 - Adding Missing Authentication and Authorization | 14:45
+166 - Importing Review and User Data | 07:27
+167 - Improving Read Performance with Indexes | 16:11
+168 - Calculating Average Rating on Tours Part 1 | 22:26
+169 - Calculating Average Rating on Tours Part 2 | 15:57
+170 - Preventing Duplicate Reviews | 09:29
+171 - Geospatial Queries Finding Tours Within Radius | 29:53
+172 - Geospatial Aggregation Calculating Distances | 16:29
+173 - Creating API Documentation Using Postman | 10:37
+------------------ 12 - ServerSide Rendering with Pug Templates ------------------
+174 - Section Intro | 00:57
+175 - Recap ServerSide vs ClientSide Rendering | 05:16
+176 - Setting up Pug in Express | 10:08
+177 - First Steps with Pug | 14:37
+178 - Creating Our Base Template | 15:25
+179 - Including Files into Pug Templates | 04:45
+180 - Extending Our Base Template with Blocks | 10:07
+181 - Setting up the Project Structure | 05:58
+182 - Building the Tour Overview Part 1 | 11:38
+183 - Building the Tour Overview Part 2 | 15:53
+184 - Building the Tour Page Part 1 | 20:29
+185 - Building the Tour Page Part 2 | 25:50
+186 - Including a Map with Mapbox Part 1 | 11:34
+187 - Including a Map with Mapbox Part 2 | 27:51
+188 - Building the Login Screen | 06:30
+189 - Logging in Users with Our API Part 1 | 20:54
+190 - Logging in Users with Our API Part 2 | 18:40
+191 - Logging in Users with Our API Part 3 | 28:16
+192 - Logging out Users | 13:57
+193 - Rendering Error Pages | 21:45
+194 - Building the User Account Page | 16:06
+195 - Updating User Data | 17:07
+196 - Updating User Data with Our API | 12:35
+197 - Updating User Password with Our API | 14:42
+------------------ 13 - Advanced Features Payments Email File Uploads ------------------
+198 - Section Intro | 00:33
+199 - Image Uploads Using Multer Users | 10:12
+200 - Configuring Multer | 13:46
+201 - Saving Image Name to Database | 05:33
+202 - Resizing Images | 13:20
+203 - Adding Image Uploads to Form | 11:34
+204 - Uploading Multiple Images Tours | 12:02
+205 - Processing Multiple Images | 18:12
+206 - Building a Complex Email Handler | 19:58
+207 - Email Templates with Pug Welcome Emails | 15:09
+208 - Sending Password Reset Emails | 07:08
+209 - Using Sendgrid for Real Emails | 09:33
+210 - Credit Card Payments with Stripe | 10:08
+211 - Integrating Stripe into the BackEnd | 22:34
+212 - Processing Payments on the FrontEnd | 23:04
+213 - Modelling the Bookings | 06:24
+214 - Creating New Bookings on Checkout Success | 19:08
+215 - Rendering a Users Booked Tours | 11:17
+216 - Finishing the Bookings API | 07:12
+217 - Final Considerations | 07:28
+------------------ 14 - Setting Up Git and Deployment ------------------
+218 - Section Intro | 00:40
+219 - Setting Up Git and GitHub | 04:38
+220 - Git Fundamentals | 10:34
+221 - Pushing to GitHub | 10:28
+222 - Preparing Our App for Deployment | 10:56
+223 - Deploying Our App to Heroku | 26:30
+224 - Testing for Secure HTTPS Connections | 05:53
+225 - Responding to a SIGTERM Signal | 07:22
+226 - Implementing CORS | 15:53
+227 - Finishing Payments with Stripe Webhooks | 38:08
+------------------ 15 - Thats It Everyone ------------------
+228 - Where to Go from Here | 03:39

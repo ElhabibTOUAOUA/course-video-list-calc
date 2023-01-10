@@ -1,0 +1,247 @@
+------------------ 1. Introduction ------------------
+1. Curriculum Walkthrough | 07:43
+2. What Order Should You Watch In | 02:53
+3. How I'm Running My Code | 03:22
+------------------ 2. Big O Notation ------------------
+1. Intro to Big O | 07:42
+2. Timing Our Code | 10:19
+3. Counting Operations | 04:36
+4. Visualizing Time Complexities | 04:25
+5. Official Intro to Big O | 09:58
+6. Simplifying Big O Expressions | 09:32
+9. Space Complexity | 06:27
+11. Logs and Section Recap | 08:46
+------------------ 3. Analyzing Performance of Arrays and Objects ------------------
+2. Section Introduction | 01:43
+3. The BIG O of Objects | 05:32
+5. When are Arrays Slow | 06:25
+6. Big O of Array Methods | 05:56
+------------------ 4. Problem Solving Approach ------------------
+2. Introduction to Problem Solving | 07:08
+3. Step 1 Understand The Problem | 07:59
+4. Step 2 Concrete Examples | 06:19
+5. Step 3 Break It Down | 07:45
+6. Step 4 Solve Or Simplify | 10:33
+7. Step 5 Look Back and Refactor | 16:57
+8. Recap and Interview Strategies | 04:12
+------------------ 5. Problem Solving Patterns ------------------
+2. Intro to Problem Solving Patterns | 02:56
+3. Frequency Counter Pattern | 15:11
+4. Frequency Counter Anagram Challenge | 02:34
+6. Anagram Challenge Solution | 06:18
+7. Multiple Pointers Pattern | 09:43
+8. Multiple Pointers Count Unique Values Challenge | 04:30
+10. Count Unique Values Solution | 06:31
+11. Sliding Window Pattern | 13:14
+12. Divide And Conquer Pattern | 07:02
+------------------ 6. 100% OPTIONAL Challenges ------------------
+------------------ 7. Recursion ------------------
+2. Story Time Martin & The Dragon | 07:07
+3. Why Use Recursion | 05:53
+4. The Call Stack | 07:08
+5. Our First Recursive Function | 05:12
+7. Our Second Recursive Function | 07:54
+8. Writing Factorial Iteratively | 02:20
+9. Writing Factorial Recursively | 03:16
+10. Common Recursion Pitfalls | 05:07
+11. Helper Method Recursion | 06:23
+12. Pure Recursion | 07:45
+------------------ 8. Recursion Problem Set ------------------
+------------------ 9. Bonus CHALLENGING Recursion Problems ------------------
+------------------ 10. Searching Algorithms ------------------
+2. Intro to Searching | 04:04
+3. Intro to Linear Search | 04:47
+5. Linear Search Solution | 05:19
+6. Linear Search BIG O | 01:55
+7. Intro to Binary Search | 05:48
+8. Binary Search PseudoCode | 02:40
+10. Binary Search Solution | 16:41
+11. Binary Search BIG O | 06:10
+12. Naive String Search | 04:38
+13. Naive String Search Implementation | 12:30
+------------------ 11. Bubble Sort ------------------
+2. Introduction to Sorting Algorithms | 08:36
+3. Built-In JavaScript Sorting | 04:41
+4. Bubble Sort Overview | 07:21
+5. Bubble Sort Implementation | 09:58
+6. Bubble Sort Optimization | 04:22
+7. Bubble Sort BIG O Complexity | 01:28
+------------------ 12. Selection Sort ------------------
+2. Selection Sort Introduction | 06:19
+3. Selection Sort Implementation | 11:14
+4. Selection Sort Big O Complexity | 01:40
+------------------ 13. Insertion Sort ------------------
+2. Insertion Sort Introduction | 03:17
+3. Insertion Sort Implementation | 10:43
+4. Insertion Sort BIG O Complexity | 02:25
+------------------ 14. Comparing Bubble, Selection, and Insertion Sort ------------------
+1. Comparing Bubble, Selection, and Insertion Sort | 05:34
+------------------ 15. Merge Sort ------------------
+2. Intro to the Crazier Sorts | 06:06
+3. Merge Sort Introduction | 05:26
+4. Merging Arrays Intro | 05:11
+5. Merging Arrays Implementation | 06:55
+6. Writing Merge Sort Part 1 | 02:21
+7. Writing Merge Sort Part 2 | 12:37
+8. Merge Sort BIG O Complexity | 06:22
+------------------ 16. Quick Sort ------------------
+2. Introduction to Quick Sort | 09:01
+3. Pivot Helper Introduction | 08:06
+4. Pivot Helper Implementation | 08:08
+5. Quick Sort Implementation | 08:46
+6. Quick Sort Call Stack Walkthrough | 04:16
+7. Quick Sort Big O Complexity | 04:06
+------------------ 17. Radix Sort ------------------
+2. Radix Sort Introduction | 09:23
+3. Radix Sort Helper Methods | 11:10
+4. Radix Sort Pseudocode | 04:19
+5. Radix Sort Implementation | 10:25
+6. Radix Sort BIG O Complexity | 03:51
+------------------ 18. Data Structures Introduction ------------------
+1. Which Data Structure Is The Best | 12:39
+2. ES2015 Class Syntax Overview | 05:15
+3. Data Structures The Class Keyword | 06:37
+4. Data Structures Adding Instance Methods | 09:50
+5. Data Structures Adding Class Methods | 07:12
+------------------ 19. Singly Linked Lists ------------------
+2. Intro to Singly Linked Lists | 07:47
+3. Starter Code and Push Intro | 07:23
+4. Singly Linked List Push Solution | 04:25
+5. Singly Linked List Pop Intro | 06:14
+6. Singly Linked List Pop Solution | 07:36
+7. Singly Linked List Shift Intro | 01:31
+8. Singly Linked List Shift Solution | 03:22
+9. Singly Linked List Unshift Intro | 01:35
+10. Singly Linked List Unshift Solution | 05:58
+11. Singly Linked List Get Intro | 02:32
+12. Singly Linked List Get Solution | 03:32
+13. Singly Linked List Set Intro | 01:26
+14. Singly Linked List Set Solution | 02:11
+15. Singly Linked List Insert Intro | 04:28
+16. Singly Linked List Insert Solution | 07:49
+17. Singly Linked List Remove Intro | 01:56
+18. Singly Linked List Remove Solution | 03:15
+19. Singly Linked List Reverse Intro | 04:46
+20. Singly Linked List Reverse Solution | 08:59
+21. Singly Linked List BIG O Complexity | 05:41
+------------------ 20. Doubly Linked Lists ------------------
+2. Doubly Linked Lists Introduction | 04:44
+3. Setting Up Our Node Class | 03:00
+4. Push | 02:11
+5. Push Solution | 04:05
+6. Pop | 03:20
+7. Pop Solution | 06:24
+8. Shift | 02:45
+9. Shift Solution | 04:12
+10. Unshift | 01:36
+11. Unshift Solution | 02:19
+12. Get | 04:02
+13. Get Solution | 07:05
+14. Set | 01:18
+15. Set Solution | 02:08
+16. Insert | 02:50
+17. Insert Solution | 06:48
+18. Remove | 02:19
+19. Remove Solution | 06:28
+20. Comparing Singly and Doubly Linked Lists | 04:32
+------------------ 21. Stacks + Queues ------------------
+2. Intro to Stacks | 06:19
+3. Creating a Stack with an Array | 07:05
+4. Writing Our Own Stack From Scratch | 11:34
+5. BIG O of Stacks | 02:15
+6. Intro to Queues | 04:15
+7. Creating Queues Using Arrays | 03:25
+8. Writing Our Own Queue From Scratch | 10:24
+9. BIG O of Queues | 02:31
+------------------ 22. Binary Search Trees ------------------
+2. Introduction to Trees | 06:46
+3. Uses For Trees | 06:32
+4. Intro to Binary Trees | 05:54
+5. POP QUIZ! | 01:14
+6. Searching A Binary Search Tree | 02:55
+7. Our Tree Classes | 02:45
+8. BST Insert | 03:51
+9. BST Insert Solution | 11:53
+10. BST Find | 04:42
+11. BST Find Solution | 05:36
+12. Big O of Binary Search Trees | 05:59
+------------------ 23. Tree Traversal ------------------
+2. Intro To Tree Traversal | 04:50
+3. Breadth First Search Intro | 05:52
+4. Breadth First Search Solution | 06:21
+5. Depth First PreOrder Intro | 05:38
+6. Depth First PreOrder Solution | 06:50
+7. Depth First PostOrder Intro | 04:02
+8. Depth First PostOrder Solution | 02:39
+9. Depth First InOrder Intro | 02:08
+10. Depth First InOrder Solution | 02:33
+11. When to Use BFS and DFS | 07:38
+------------------ 24. Binary Heaps ------------------
+2. Intro to Heaps | 07:31
+3. Storing Heaps | 07:06
+4. Heap Insert Intro | 09:15
+5. Heap Insert Solution | 10:52
+6. Heap ExtractMax Intro | 08:28
+7. Heap ExtractMax Solution | 17:56
+8. Priority Queue Intro | 09:00
+9. Priority Queue Pseudocode | 03:43
+10. Priority Queue Solution | 09:21
+11. BIG O of Binary Heaps | 08:54
+------------------ 25. Hash Tables ------------------
+2. Intro to Hash Tables | 05:50
+3. More About Hash Tables | 04:32
+4. Intro to Hash Functions | 06:11
+5. Writing Our First Hash Function | 08:27
+6. Improving Our Hash Function | 07:10
+7. Handling Collisions | 04:00
+8. Hash Table Set and Get | 04:03
+9. Hash Table Set Solution | 05:15
+10. Hash Table Get Solution | 06:43
+11. Hash Table Keys and Values | 01:42
+12. Hash Table Keys and Values Solution | 08:44
+13. Hash Table Big O Complexity | 05:41
+------------------ 26. Graphs ------------------
+2. Intro to Graphs | 03:50
+3. Uses for Graphs | 07:58
+4. Types of Graphs | 08:49
+5. Storing Graphs Adjacency Matrix | 03:58
+6. Storing Graphs Adjacency List | 02:29
+7. Adjacency Matrix Vs. List BIG O | 05:51
+8. Add Vertex Intro | 02:10
+9. Add Vertex Solution | 02:54
+10. Add Edge Intro | 02:33
+11. Add Edge Solution | 02:11
+12. Remove Edge Intro | 01:36
+13. Remove Edge Solution | 02:42
+14. Remove Vertex Intro | 02:36
+15. Remove Vertex Solution | 04:34
+------------------ 27. Graph Traversal ------------------
+2. Intro to Graph Traversal | 08:38
+3. Depth First Graph Traversal | 08:31
+4. DFS Recursive Intro | 07:28
+5. DFS Recursive Solution | 12:45
+6. DFS Iterative Intro | 03:38
+7. DFS Iterative Solution | 08:44
+8. Breadth First Graph Traversal | 03:00
+9. BFS Intro | 02:27
+10. BFS Solution | 08:09
+------------------ 28. Dijkstra's Algorithm! ------------------
+2. Intro to Dijkstra's and Prerequisites | 02:42
+3. Who was Dijkstra and what is his Algorithm | 09:00
+4. Writing a Weighted Graph | 05:20
+5. Walking through the Algorithm | 16:27
+6. Introducing Our Simple Priority Queue | 03:48
+7. Dijkstra's Pseudo-Code | 04:29
+8. Implementing Dijkstra's Algorithm | 21:19
+9. Upgrading the Priority Queue | 01:53
+------------------ 29. Dynamic Programming ------------------
+1. Intro to Dynamic Programming | 05:03
+2. Overlapping Subproblems | 06:00
+3. Optimal Substructure | 06:28
+4. Writing A Recursive Solution | 06:43
+5. Time Complexity of Our Solution | 04:12
+6. The Problem With Our Solution | 03:39
+7. Enter Memoization! | 09:01
+8. Time Complexity of Memoized Solution | 03:27
+9. Tabulation A Bottom Up Approach | 06:59
+------------------ 30. The Wild West ------------------

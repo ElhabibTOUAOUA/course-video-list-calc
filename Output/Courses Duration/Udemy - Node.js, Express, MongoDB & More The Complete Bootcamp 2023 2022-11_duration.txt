@@ -1,0 +1,1 @@
+Course duration = 42h 12m

@@ -1,0 +1,277 @@
+------------------ 1 - Introduction ------------------
+1 - Course Introduction | 04:48
+2 - Creating an AWS Account | 01:40
+4 - Important Message | 01:00
+5 - About your instructor | 02:20
+------------------ 2 - Code & Slides Download ------------------
+------------------ 3 - What is Cloud Computing ------------------
+1 - Traditional IT Overview | 06:29
+2 - What is Cloud Computing | 07:53
+3 - The Different Types of Cloud Computing | 03:24
+4 - AWS Cloud Overview | 08:09
+5 - Tour of the Console & Services in AWS | 03:10
+6 - About the UI changes in the course | 01:51
+7 - Shared Responsibility Model & AWS Acceptable Policy | 01:36
+------------------ 4 - IAM - Identity and Access Management ------------------
+1 - IAM Introduction Users, Groups, Policies | 03:22
+2 - IAM Users & Groups Hands On | 06:51
+3 - IAM Policies | 02:51
+4 - IAM Policies Hands On | 06:09
+5 - IAM MFA Overview | 04:19
+6 - IAM MFA Hands On | 03:17
+7 - AWS Access Keys, CLI and SDK | 04:04
+8 - AWS CLI Setup on Windows | 01:45
+9 - AWS CLI Setup on Mac | 01:29
+10 - AWS CLI Setup on Linux | 01:30
+11 - AWS CLI Hands On | 03:43
+13 - AWS CloudShell | 03:53
+14 - IAM Roles for AWS Services | 01:39
+15 - IAM Roles Hands On | 01:39
+16 - IAM Security Tools | 00:55
+17 - IAM Security Tools Hands On | 02:26
+18 - IAM Best Practices | 01:30
+19 - Shared Responsibility Model for IAM | 01:32
+20 - IAM Summary | 01:06
+------------------ 5 - EC2 - Elastic Compute Cloud ------------------
+1 - AWS Budget Setup | 05:44
+2 - EC2 Basics | 05:09
+3 - Create an EC2 Instance with EC2 User Data to have a Website Hands On | 10:50
+4 - EC2 Instance Types Basics | 05:51
+5 - Security Groups & Classic Ports Overview | 07:26
+6 - Security Groups Hands On | 05:22
+7 - SSH Overview | 02:47
+8 - How to SSH using Linux or Mac | 04:45
+9 - How to SSH using Windows | 05:58
+10 - How to SSH using Windows 10 | 05:14
+12 - EC2 Instance Connect | 02:30
+13 - EC2 Instance Roles Demo | 04:20
+14 - EC2 Instance Launch Types | 10:00
+15 - Shared Responsibility Model for EC2 | 01:26
+16 - EC2 Summary | 01:32
+------------------ 6 - EC2 Instance Storage ------------------
+1 - EBS Overview | 04:57
+3 - EBS Hands On | 04:59
+4 - EBS Snapshots Overview | 01:36
+5 - EBS Snapshots Hands On | 02:44
+6 - AMI Overview | 02:45
+7 - AMI Hands On | 05:35
+8 - EC2 Image Builder Overview | 02:47
+9 - EC2 Image Builder Hands On | 11:52
+10 - EC2 Instance Store | 02:48
+11 - EFS Overview | 04:17
+12 - Shared Responsibility Model for EC2 Storage | 01:44
+13 - Amazon FSx Overview | 03:05
+14 - EC2 Instance Storage Summary | 01:32
+15 - Section Cleanup | 01:34
+------------------ 7 - ELB & ASG - Elastic Load Balancing & Auto Scaling Groups ------------------
+1 - High Availability, Scalability, Elasticity | 06:23
+2 - Elastic Load Balancing (ELB) Overview | 03:59
+4 - Application Load Balancer (ALB) Hands On | 07:27
+5 - Auto Scaling Groups (ASG) Overview | 03:02
+6 - Auto Scaling Groups (ASG) Hands On | 08:56
+7 - Auto Scaling Groups (ASG) Strategies | 02:55
+8 - Section Cleanup | 01:29
+9 - ELB & ASG Summary | 02:00
+------------------ 8 - S3 ------------------
+1 - S3 Overview | 05:03
+2 - S3 Hands On | 06:24
+3 - S3 Security Bucket Policy | 05:12
+4 - S3 Security Bucket Policy Hands On | 03:36
+5 - S3 Website Overview | 01:05
+6 - S3 Website Hands On | 02:56
+7 - S3 Versioning Overview | 01:11
+8 - S3 Versioning Hands On | 04:43
+9 - S3 Server Access Logging | 00:55
+10 - S3 Server Access Logging Hands On | 03:05
+11 - S3 Replication Overview | 01:24
+12 - S3 Replication Hands On | 04:16
+13 - S3 Storage Classes Overview | 07:24
+14 - S3 Storage Classes Hands On | 04:25
+15 - S3 Glacier Vault Lock & S3 Object Lock | 01:26
+16 - S3 Encryption | 01:35
+17 - Shared Responsibility Model for S3 | 01:08
+18 - AWS Snow Family Overview | 11:14
+19 - AWS Snow Family Hands On | 05:36
+20 - Storage Gateway Overview | 02:39
+21 - S3 Summary | 02:59
+------------------ 9 - Databases & Analytics ------------------
+1 - Databases Introduction | 05:43
+2 - RDS & Aurora Overview | 03:59
+3 - RDS Hands On | 06:52
+4 - RDS Deployments Options | 03:41
+5 - ElastiCache Overview | 02:04
+6 - DynamoDB Overview | 02:52
+7 - DynamoDB Hands On | 03:07
+8 - DynamoDB Global Tables | 01:17
+9 - Redshift Overview | 01:37
+10 - EMR Overview | 01:21
+11 - Athena Overview | 01:21
+12 - QuickSight Overview | 00:57
+13 - DocumentDB Overview | 01:17
+14 - Neptune Overview | 01:23
+15 - QLDB Overview | 02:03
+16 - Managed Blockchain Overview | 00:50
+17 - DMS Overview | 01:18
+18 - Glue Overview | 02:05
+19 - Databases & Analytics Summary | 02:33
+------------------ 10 - Other Compute Services ECS, Lambda, Batch, Lightsail ------------------
+1 - What is Docker | 03:28
+2 - ECS, Fargate & ECR Overview | 03:01
+3 - Serverless Introduction | 02:05
+4 - Lambda Overview | 06:22
+5 - Lambda Hands On | 09:49
+6 - API Gateway Overview | 01:29
+7 - Batch Overview | 03:09
+8 - Lightsail Overview | 01:47
+9 - Lightsail Hands On | 04:38
+10 - Other Compute - Summary | 02:43
+------------------ 11 - Deployments & Managing Infrastructure at Scale ------------------
+1 - CloudFormation Overview | 03:33
+2 - CloudFormation Hands On | 09:02
+3 - CDK Overview | 02:00
+4 - Beanstalk Overview | 04:17
+5 - Beanstalk Hands On | 05:36
+6 - CodeDeploy Overview | 01:41
+7 - CodeCommit Overview | 01:13
+8 - CodeBuild Overview | 01:07
+9 - CodePipeline Overview | 01:37
+10 - CodeArtifact Overview | 01:24
+11 - CodeStar Overview | 01:07
+12 - Cloud9 Overview | 00:59
+13 - CodeStar & Cloud9 Hands On | 10:15
+14 - Systems Manager (SSM) Overview | 02:26
+15 - SSM Session Manager | 05:40
+16 - OpsWorks Overview | 01:57
+17 - Deployment Summary | 02:35
+------------------ 12 - Leveraging the AWS Global Infrastructure ------------------
+1 - Why Global Applications | 05:41
+2 - Route 53 Overview | 04:28
+3 - Route 53 Hands On | 08:59
+4 - CloudFront Overview | 04:53
+5 - CloudFront Hands On | 05:12
+6 - S3 Transfer Acceleration | 02:23
+7 - AWS Global Accelerator | 04:56
+8 - AWS Outposts | 02:38
+9 - AWS WaveLength | 01:57
+10 - AWS Local Zones | 03:53
+11 - Global Applications Architecture | 02:36
+12 - Leveraging the AWS Global Infrastructure Summary | 01:57
+------------------ 13 - Cloud Integrations ------------------
+1 - Cloud Integrations Overview | 02:01
+2 - SQS Overview | 03:06
+3 - SQS Hands On | 02:47
+4 - SNS Overview | 01:44
+5 - SNS Hands On | 02:25
+6 - Kinesis Overview | 01:44
+7 - Amazon MQ Overview | 01:37
+8 - Cloud Integrations Summary | 01:28
+------------------ 14 - Cloud Monitoring ------------------
+1 - CloudWatch Metrics & CloudWatch Alarms Overview | 03:36
+2 - CloudWatch Metrics & CloudWatch Alarms Hands On | 07:42
+3 - CloudWatch Logs Overview | 02:14
+4 - CloudWatch Logs Hands On | 02:52
+5 - CloudWatch Events EventBridge Overview | 02:35
+6 - CloudWatch Events EventBridge Hands On | 03:29
+7 - CloudTrail Overview | 05:42
+8 - CloudTrail Hands On | 10:34
+9 - X-Ray Overview | 02:11
+10 - CodeGuru Overview | 03:23
+11 - Service Health Dashboard | 01:31
+12 - Personal Health Dashboard | 02:46
+13 - Cloud Monitoring Summary | 01:46
+------------------ 15 - VPC & Networking ------------------
+1 - VPC Overview | 01:20
+2 - VPC, Subnet, Internet Gateway & NAT Gateways | 09:02
+3 - Security Groups & Network Access Control List (NACL) | 03:50
+4 - VPC Flow Logs & VPC Peering | 03:59
+5 - VPC Endpoints - Interface & Gateway (S3 & DynamoDB) | 02:11
+6 - Direct Connect & Site-to-Site VPN | 02:36
+7 - Transit Gateway Overview | 01:15
+8 - VPC & Networking Summary | 02:03
+------------------ 16 - Security & Compliance ------------------
+1 - Shared Responsibility Model Reminders & Examples | 04:29
+2 - DDoS Protection WAF & Shield | 04:44
+3 - Penetration Testing | 01:48
+4 - Encryption with KMS & CloudHSM | 05:32
+5 - Encryption with KMS & CloudHSM Hands On | 04:34
+6 - AWS Certificate Manager (ACM) Overview | 01:29
+7 - Secrets Manager Overview | 02:49
+8 - Artifact Overview | 02:00
+9 - GuardDuty Overview | 01:33
+10 - Inspector Overview | 00:43
+11 - Config Overview | 06:46
+12 - Macie Overview | 01:06
+13 - Security Hub Overview | 02:55
+14 - Amazon Detective Overview | 01:10
+15 - AWS Abuse | 01:11
+16 - Root User Privileges | 02:04
+17 - Security & Compliance Summary | 02:39
+------------------ 17 - Machine Learning ------------------
+1 - Rekognition Overview | 01:51
+2 - Transcribe Overview | 01:02
+3 - Polly Overview | 00:54
+4 - Translate Overview | 00:36
+5 - Lex + Connect Overview | 01:56
+6 - Comprehend Overview | 01:49
+7 - SageMaker Overview | 03:29
+8 - Forecast Overview | 01:00
+9 - Kendra Overview | 01:22
+10 - Personalize Overview | 01:36
+11 - Machine Learning Summary | 01:06
+------------------ 18 - Account Management, Billing & Support ------------------
+1 - Organizations Overview | 08:01
+2 - Organizations Hands On | 10:00
+3 - Organizations Consolidated Billing | 02:23
+4 - AWS Control Tower Overview | 00:53
+5 - AWS Control Tower Hands On | 05:44
+6 - Pricing Models of the Cloud | 10:28
+7 - Savings Plan Overview | 03:59
+8 - Compute Optimizer Overview | 00:51
+9 - Billing & Costing Tools Overview | 01:00
+10 - Estimating Costs in the Cloud - TCO Calculator & Pricing Calculator | 05:32
+11 - Tracking Costs in the Cloud - Billing Dashboard, Cost Allocation Tags, Reports | 10:17
+12 - Monitoring Costs in the Cloud - Billing Alarms & AWS Budgets | 03:31
+13 - AWS Trusted Advisor | 04:03
+14 - Support Plans for AWS | 03:36
+15 - Account Best Practices Summary | 01:28
+16 - Billing Summary | 01:29
+------------------ 19 - Advanced Identity ------------------
+1 - Security Token Service (STS) Overview | 01:43
+2 - Cognito Overview | 01:07
+3 - Directory Services Overview | 02:54
+4 - Single Sign-On (SSO) Overview | 01:54
+5 - Advanced Identity - Summary | 00:57
+------------------ 20 - Other Services ------------------
+1 - Other Services - Section Intro | 00:45
+2 - WorkSpaces Overview | 01:49
+3 - AppStream 2.0 Overview | 01:32
+4 - Sumerian Overview | 01:00
+5 - IoT Core Overview | 01:14
+6 - Elastic Transcoder Overview | 01:13
+7 - Device Farm Overview | 01:16
+8 - AWS Backup Overview | 01:00
+9 - Disaster Recovery Strategies | 02:29
+10 - CloudEndure Overview | 02:03
+11 - AWS DataSync | 01:04
+------------------ 21 - AWS Architecting & Ecosystem ------------------
+1 - AWS WhitePapers Well-Architected Framework | 04:59
+2 - 1st pillar Operational Excellence | 03:31
+3 - 2nd pillar Security | 04:14
+4 - 3rd pillar Reliability | 03:15
+5 - 4th pillar Performance Efficiency | 03:43
+6 - 5th pillar Cost Optimization | 03:59
+7 - AWS Well-Architected Tool | 02:50
+8 - Right Sizing | 01:42
+9 - AWS Ecosystem | 06:47
+10 - AWS Knowledge Center | 00:54
+------------------ 22 - Preparing for the Exam + Practice Exam - AWS Certified Cloud Practitioner ------------------
+1 - Words on Other Services | 01:47
+2 - State of Learning Checkpoint - AWS Certified Cloud Practitioner | 00:00
+3 - Exam Sample Question Walkthrough | 07:13
+4 - Exam Tips - AWS Certified Cloud Practitioner | 05:21
+5 - Exam Walkthrough and Signup | 04:02
+6 - Save 50% on your AWS Exam Cost | 01:42
+7 - Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only | 00:00
+------------------ 23 - Congratulations - AWS Certified Cloud Practitioner ------------------
+1 - Congratulations - AWS Certified Cloud Practitioner | 01:15
+2 - THANK YOU | 01:33

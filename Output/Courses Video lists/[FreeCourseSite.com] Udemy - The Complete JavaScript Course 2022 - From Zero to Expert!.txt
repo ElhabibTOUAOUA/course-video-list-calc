@@ -1,0 +1,318 @@
+------------------ 01 Welcome, Welcome, Welcome! ------------------
+001 Course Structure and Projects | 05:25
+002 Watch Before You Start! | 06:09
+005 Setting Up Our Code Editor | 08:23
+------------------ 02 JavaScript Fundamentals – Part 1 ------------------
+001 Section Intro | 00:54
+002 Hello World! | 05:58
+003 A Brief Introduction to JavaScript | 11:19
+004 Linking a JavaScript File | 15:55
+005 Values and Variables | 16:06
+007 Data Types | 19:19
+008 let, const and var | 09:58
+009 Basic Operators | 19:31
+010 Operator Precedence | 11:19
+011 Coding Challenge #1 | 10:28
+012 Strings and Template Literals | 10:58
+013 Taking Decisions_ if _ else Statements | 12:50
+014 Coding Challenge #2 | 06:22
+015 Type Conversion and Coercion | 16:41
+016 Truthy and Falsy Values | 10:04
+017 Equality Operators_ == vs. === | 15:41
+018 Boolean Logic | 08:31
+019 Logical Operators | 10:38
+020 Coding Challenge #3 | 15:07
+021 The switch Statement | 13:11
+022 Statements and Expressions | 06:09
+023 The Conditional (Ternary) Operator | 10:02
+024 Coding Challenge #4 | 09:12
+025 JavaScript Releases_ ES5, ES6+ and ESNext | 14:19
+------------------ 03 JavaScript Fundamentals – Part 2 ------------------
+001 Section Intro | 00:36
+002 Activating Strict Mode | 10:27
+003 Functions | 19:08
+004 Function Declarations vs. Expressions | 10:39
+005 Arrow Functions | 09:53
+006 Functions Calling Other Functions | 10:08
+007 Reviewing Functions | 15:38
+008 Coding Challenge #1 | 18:12
+009 Introduction to Arrays | 21:35
+010 Basic Array Operations (Methods) | 12:53
+011 Coding Challenge #2 | 09:36
+012 Introduction to Objects | 06:09
+013 Dot vs. Bracket Notation | 19:21
+014 Object Methods | 23:05
+015 Coding Challenge #3 | 12:59
+016 Iteration_ The for Loop | 11:12
+017 Looping Arrays, Breaking and Continuing | 22:02
+018 Looping Backwards and Loops in Loops | 11:53
+019 The while Loop | 11:53
+020 Coding Challenge #4 | 15:36
+------------------ 04 How to Navigate This Course ------------------
+001 Pathways and Section Roadmaps | 04:08
+------------------ 05 Developer Skills & Editor Setup ------------------
+001 Section Intro | 00:40
+003 Setting up Prettier and VS Code | 16:22
+004 Installing Node.js and Setting Up a Dev Environment | 11:33
+005 Learning How to Code | 17:43
+006 How to Think Like a Developer_ Become a Problem Solver! | 10:53
+007 Using Google, StackOverflow and MDN | 26:37
+008 Debugging (Fixing Errors) | 05:10
+009 Debugging with the Console and Breakpoints | 19:25
+010 Coding Challenge #1 | 15:24
+------------------ 06 [OPTIONAL] HTML & CSS Crash Course ------------------
+001 Section Intro | 00:40
+002 Basic HTML Structure and Elements | 09:32
+003 Attributes, Classes and IDs | 13:10
+004 Basic Styling with CSS | 12:00
+005 Introduction to the CSS Box Model | 20:58
+------------------ 07 JavaScript in the Browser_ DOM and Events Fundamentals ------------------
+001 Section Intro | 00:49
+003 PROJECT #1_ Guess My Number! | 08:47
+004 What's the DOM and DOM Manipulation | 06:49
+005 Selecting and Manipulating Elements | 08:23
+006 Handling Click Events | 12:50
+007 Implementing the Game Logic | 19:34
+008 Manipulating CSS Styles | 08:18
+009 Coding Challenge #1 | 11:40
+010 Implementing Highscores | 07:47
+011 Refactoring Our Code_ The DRY Principle | 15:05
+012 PROJECT #2_ Modal Window | 13:21
+013 Working With Classes | 16:55
+014 Handling an _Esc_ Keypress Event | 14:12
+015 PROJECT #3_ Pig Game | 17:09
+016 Rolling the Dice | 15:58
+017 Switching the Active Player | 15:16
+018 Holding Current Score | 24:56
+019 Resetting the Game | 15:38
+------------------ 08 How JavaScript Works Behind the Scenes ------------------
+001 Section Intro | 01:31
+003 An High-Level Overview of JavaScript | 12:11
+004 The JavaScript Engine and Runtime | 13:47
+005 Execution Contexts and The Call Stack | 17:46
+006 Scope and The Scope Chain | 25:37
+007 Scoping in Practice | 21:14
+008 Variable Environment_ Hoisting and The TDZ | 11:01
+009 Hoisting and TDZ in Practice | 14:43
+010 The this Keyword | 06:31
+011 The this Keyword in Practice | 13:12
+012 Regular Functions vs. Arrow Functions | 18:04
+013 Primitives vs. Objects (Primitive vs. Reference Types) | 16:07
+014 Primitives vs. Objects in Practice | 14:58
+------------------ 09 Data Structures, Modern Operators and Strings ------------------
+001 Section Intro | 00:54
+003 Destructuring Arrays | 19:34
+004 Destructuring Objects | 19:47
+005 The Spread Operator (...) | 21:26
+006 Rest Pattern and Parameters | 19:02
+007 Short Circuiting (&& and __) | 15:56
+008 The Nullish Coalescing Operator (__) | 03:32
+009 Logical Assignment Operators | 11:40
+010 Coding Challenge #1 | 14:58
+011 Looping Arrays_ The for-of Loop | 07:20
+012 Enhanced Object Literals | 07:02
+013 Optional Chaining (_.) | 16:10
+014 Looping Objects_ Object Keys, Values, and Entries | 10:09
+015 Coding Challenge #2 | 14:31
+016 Sets | 13:18
+017 Maps_ Fundamentals | 14:03
+018 Maps_ Iteration | 12:41
+019 Summary_ Which Data Structure to Use_ | 09:40
+020 Coding Challenge #3 | 09:37
+021 Working With Strings - Part 1 | 16:54
+022 Working With Strings - Part 2 | 21:46
+023 Working With Strings - Part 3 | 21:41
+024 Coding Challenge #4 | 15:15
+025 String Methods Practice | 16:37
+------------------ 10 A Closer Look at Functions ------------------
+001 Section Intro | 00:48
+003 Default Parameters | 09:17
+004 How Passing Arguments Works_ Value vs. Reference | 13:36
+005 First-Class and Higher-Order Functions | 05:24
+006 Functions Accepting Callback Functions | 15:20
+007 Functions Returning Functions | 06:37
+008 The call and apply Methods | 16:52
+009 The bind Method | 21:33
+010 Coding Challenge #1 | 18:47
+011 Immediately Invoked Function Expressions (IIFE) | 07:53
+012 Closures | 19:48
+013 More Closure Examples | 15:31
+014 Coding Challenge #2 | 05:25
+------------------ 11 Working With Arrays ------------------
+001 Section Intro | 00:53
+003 Simple Array Methods | 16:37
+004 The new at Method | 06:05
+005 Looping Arrays_ forEach | 13:46
+006 forEach With Maps and Sets | 05:32
+007 PROJECT_ _Bankist_ App | 09:49
+008 Creating DOM Elements | 18:45
+009 Coding Challenge #1 | 08:31
+010 Data Transformations_ map, filter, reduce | 04:40
+011 The map Method | 15:41
+012 Computing Usernames | 12:15
+013 The filter Method | 06:20
+014 The reduce Method | 20:58
+015 Coding Challenge #2 | 09:56
+016 The Magic of Chaining Methods | 19:40
+017 Coding Challenge #3 | 03:57
+018 The find Method | 06:47
+019 Implementing Login | 24:19
+020 Implementing Transfers | 20:54
+021 The findIndex Method | 12:35
+022 some and every | 15:11
+023 flat and flatMap | 09:32
+024 Sorting Arrays | 21:56
+025 More Ways of Creating and Filling Arrays | 20:33
+026 Summary_ Which Array Method to Use_ | 06:24
+027 Array Methods Practice | 32:22
+028 Coding Challenge #4 | 23:48
+------------------ 12 Numbers, Dates, Intl and Timers ------------------
+001 Section Intro | 00:51
+003 Converting and Checking Numbers | 16:46
+004 Math and Rounding | 18:15
+005 The Remainder Operator | 10:56
+006 Numeric Separators | 06:57
+007 Working with BigInt | 11:18
+008 Creating Dates | 12:55
+009 Adding Dates to _Bankist_ App | 22:21
+010 Operations With Dates | 15:27
+011 Internationalizing Dates (Intl) | 17:18
+012 Internationalizing Numbers (Intl) | 19:07
+013 Timers_ setTimeout and setInterval | 13:54
+014 Implementing a Countdown Timer | 28:31
+------------------ 13 Advanced DOM and Events ------------------
+001 Section Intro | 01:05
+003 PROJECT_ _Bankist_ Website | 08:50
+004 How the DOM Really Works | 10:36
+005 Selecting, Creating, and Deleting Elements | 20:28
+006 Styles, Attributes and Classes | 21:54
+007 Implementing Smooth Scrolling | 15:57
+008 Types of Events and Event Handlers | 10:34
+009 Event Propagation_ Bubbling and Capturing | 05:04
+010 Event Propagation in Practice | 17:46
+011 Event Delegation_ Implementing Page Navigation | 18:49
+012 DOM Traversing | 14:35
+013 Building a Tabbed Component | 24:08
+014 Passing Arguments to Event Handlers | 18:43
+015 Implementing a Sticky Navigation_ The Scroll Event | 07:55
+016 A Better Way_ The Intersection Observer API | 24:01
+017 Revealing Elements on Scroll | 12:39
+018 Lazy Loading Images | 18:30
+019 Building a Slider Component_ Part 1 | 23:16
+020 Building a Slider Component_ Part 2 | 19:36
+021 Lifecycle DOM Events | 09:26
+022 Efficient Script Loading_ defer and async | 13:31
+------------------ 14 Object-Oriented Programming (OOP) With JavaScript ------------------
+001 Section Intro | 01:07
+003 What is Object-Oriented Programming_ | 20:55
+004 OOP in JavaScript | 10:09
+005 Constructor Functions and the new Operator | 14:20
+006 Prototypes | 14:37
+007 Prototypal Inheritance and The Prototype Chain | 10:59
+008 Prototypal Inheritance on Built-In Objects | 14:47
+009 Coding Challenge #1 | 07:27
+010 ES6 Classes | 12:58
+011 Setters and Getters | 13:15
+012 Static Methods | 06:24
+013 Object.create | 10:56
+014 Coding Challenge #2 | 06:00
+015 Inheritance Between _Classes__ Constructor Functions | 21:04
+016 Coding Challenge #3 | 10:38
+017 Inheritance Between _Classes__ ES6 Classes | 10:47
+018 Inheritance Between _Classes__ Object.create | 08:54
+019 Another Class Example | 10:45
+020 Encapsulation_ Protected Properties and Methods | 06:48
+021 Encapsulation_ Private Class Fields and Methods | 16:11
+022 Chaining Methods | 04:43
+023 ES6 Classes Summary | 07:12
+024 Coding Challenge #4 | 08:54
+------------------ 15 Mapty App_ OOP, Geolocation, External Libraries, and More! ------------------
+001 Section Intro | 00:59
+003 Project Overview | 05:03
+004 How to Plan a Web Project | 17:41
+005 Using the Geolocation API | 08:17
+006 Displaying a Map Using Leaflet Library | 13:48
+007 Displaying a Map Marker | 19:54
+008 Rendering Workout Input Form | 16:42
+009 Project Architecture | 09:29
+010 Refactoring for Project Architecture | 24:05
+011 Managing Workout Data_ Creating Classes | 16:18
+012 Creating a New Workout | 34:07
+013 Rendering Workouts | 24:19
+014 Move to Marker On Click | 16:32
+015 Working with localStorage | 25:31
+016 Final Considerations | 05:41
+------------------ 16 Asynchronous JavaScript_ Promises, Async_Await, and AJAX ------------------
+001 Section Intro | 00:56
+003 Asynchronous JavaScript, AJAX and APIs | 17:58
+005 Our First AJAX Call_ XMLHttpRequest | 19:10
+006 [OPTIONAL] How the Web Works_ Requests and Responses | 13:38
+007 Welcome to Callback Hell | 13:53
+008 Promises and the Fetch API | 09:26
+009 Consuming Promises | 09:24
+010 Chaining Promises | 09:14
+011 Handling Rejected Promises | 16:13
+012 Throwing Errors Manually | 15:24
+013 Coding Challenge #1 | 16:32
+014 Asynchronous Behind the Scenes_ The Event Loop | 17:53
+015 The Event Loop in Practice | 09:15
+016 Building a Simple Promise | 20:17
+017 Promisifying the Geolocation API | 13:26
+018 Coding Challenge #2 | 15:53
+019 Consuming Promises with Async_Await | 15:06
+020 Error Handling With try...catch | 10:22
+021 Returning Values from Async Functions | 14:40
+022 Running Promises in Parallel | 10:57
+023 Other Promise Combinators_ race, allSettled and any | 13:20
+024 Coding Challenge #3 | 17:31
+------------------ 17 Modern JavaScript Development_ Modules, Tooling, and Functional ------------------
+001 Section Intro | 00:47
+003 An Overview of Modern JavaScript Development | 06:39
+004 An Overview of Modules in JavaScript | 15:01
+005 Exporting and Importing in ES6 Modules | 22:39
+006 Top-Level await (ES2022) | 14:45
+007 The Module Pattern | 10:20
+008 CommonJS Modules | 04:25
+009 A Brief Introduction to the Command Line | 12:27
+010 Introduction to NPM | 18:40
+011 Bundling With Parcel and NPM Scripts | 21:40
+012 Configuring Babel and Polyfilling | 18:03
+013 Review_ Writing Clean and Modern JavaScript | 10:26
+014 Let's Fix Some Bad Code_ Part 1 | 23:20
+015 Declarative and Functional JavaScript Principles | 12:26
+016 Let's Fix Some Bad Code_ Part 2 | 38:09
+------------------ 18 Forkify App_ Building a Modern Application ------------------
+001 Section Intro | 00:57
+003 Project Overview and Planning (I) | 14:21
+005 Loading a Recipe from API | 24:12
+006 Rendering the Recipe | 22:24
+007 Listening For load and hashchange Events | 11:03
+008 The MVC Architecture | 16:32
+009 Refactoring for MVC | 38:53
+010 Helpers and Configuration Files | 21:23
+011 Event Handlers in MVC_ Publisher-Subscriber Pattern | 15:09
+012 Implementing Error and Success Messages | 11:34
+013 Implementing Search Results - Part 1 | 25:47
+014 Implementing Search Results - Part 2 | 28:16
+015 Implementing Pagination - Part 1 | 12:18
+016 Implementing Pagination - Part 2 | 37:05
+017 Project Planning II | 03:14
+018 Updating Recipe Servings | 26:40
+019 Developing a DOM Updating Algorithm | 34:22
+020 Implementing Bookmarks - Part 1 | 26:00
+021 Implementing Bookmarks - Part 2 | 18:32
+022 Storing Bookmarks With localStorage | 18:23
+023 Project Planning III | 02:09
+024 Uploading a New Recipe - Part 1 | 17:43
+025 Uploading a New Recipe - Part 2 | 40:37
+026 Uploading a New Recipe - Part 3 | 19:58
+027 Wrapping Up_ Final Considerations | 14:45
+------------------ 19 Setting Up Git and Deployment ------------------
+001 Section Intro | 00:44
+003 Simple Deployment With Netlify | 11:18
+004 Setting Up Git and GitHub | 07:40
+005 Git Fundamentals | 19:36
+006 Pushing to GitHub | 09:31
+007 Setting Up Continuous Integration With Netlify | 10:07
+------------------ 20 The End! ------------------
+001 Where to Go from Here | 03:01
