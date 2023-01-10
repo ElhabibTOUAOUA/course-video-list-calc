@@ -97,6 +97,10 @@ def course_duration_list(course_name):
 
 if __name__ == '__main__':
 	courses_dir = os.path.join("E:\\","Courses", "Web Development")
+  
+  # uncomment the next line if you want to process just one course
+  # course_duration_list("Node.js - The Complete Guide (incl. MVC, REST APIs, GraphQL)")
+
 	courses = [course for course in os.listdir(courses_dir) if os.path.isdir(os.path.join(courses_dir, course))]
 	for course in courses:
 			print("\n=============================================")
