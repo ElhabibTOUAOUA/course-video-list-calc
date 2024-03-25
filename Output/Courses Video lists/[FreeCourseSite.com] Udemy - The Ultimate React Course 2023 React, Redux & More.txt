@@ -1,0 +1,436 @@
+------------------ 01 - Welcome, Welcome, Welcome! ------------------
+001 Course Roadmap and Projects | 02:58
+002 Building Our First React App! | 18:53
+003 Watch Before You Start! | 05:25
+005 Downloading Course Material | 03:34
+------------------ 02 - PART 1 REACT FUNDAMENTALS [4 PROJECTS] ------------------
+001 Introduction to Part 1 | 00:56
+------------------ 03 - A First Look at React ------------------
+001 Section Overview | 00:40
+002 Why Do Front-End Frameworks Exist | 10:27
+003 React vs. Vanilla JavaScript | 07:08
+004 What is React | 09:18
+005 Setting Up Our Development Environment | 08:47
+006 Pure React | 14:49
+007 A Quick Look at React's Official Documentation | 03:17
+008 Setting Up a New React Project The Options | 07:42
+009 Setting Up a Project With Create-React-App | 12:48
+------------------ 04 - [Optional] Review of Essential JavaScript for React ------------------
+001 Section Overview | 00:56
+002 Destructuring Objects and Arrays | 10:58
+003 RestSpread Operator | 09:53
+004 Template Literals | 04:50
+005 Ternaries Instead of ifelse Statements | 05:49
+006 Arrow Functions | 05:00
+007 Short-Circuiting And Logical Operators &&, , | 10:32
+008 Optional Chaining | 06:31
+009 The Array map Method | 08:35
+010 The Array filter Method | 08:36
+011 The Array reduce Method | 07:21
+012 The Array sort Method | 06:38
+013 Working With Immutable Arrays | 11:06
+014 Asynchronous JavaScript Promises | 08:11
+015 Asynchronous JavaScript AsyncAwait | 07:30
+------------------ 05 - Working With Components, Props, and JSX ------------------
+001 Section Overview | 00:54
+002 Rendering the Root Component and Strict Mode | 07:26
+003 Before We Start Coding Debugging | 09:46
+004 Components as Building Blocks | 04:34
+005 Creating And Reusing a Component | 09:40
+006 What is JSX | 06:25
+007 Creating More Components | 08:07
+008 JavaScript Logic in Components | 04:27
+009 Separation of Concerns | 05:57
+010 Styling React Applications | 12:17
+011 Passing and Receiving Props | 09:08
+012 Props, Immutability, and One-Way Data Flow | 07:09
+013 CHALLENGE #1 Profile Card (v1) | 17:25
+014 The Rules of JSX | 03:37
+015 Rendering Lists | 11:24
+016 Conditional Rendering With && | 09:16
+017 Conditional Rendering With Ternaries | 04:46
+018 Conditional Rendering With Multiple Returns | 05:03
+019 Extracting JSX Into a New Component | 04:32
+020 Destructuring Props | 04:52
+021 React Fragments | 05:36
+022 Setting Classes and Text Conditionally | 08:00
+023 Section Summary | 05:33
+024 CHALLENGE #2 Profile Card (v2) | 08:15
+------------------ 06 - State, Events, and Forms Interactive Components ------------------
+001 Section Overview | 01:03
+002 Let's Build a Steps Component | 14:48
+003 Handling Events the React Way | 07:22
+004 What is State in React | 06:09
+005 Creating a State Variable With useState | 09:07
+006 Don't Set State Manually! | 05:18
+007 The Mechanics of State | 04:52
+008 Adding Another Piece of State | 08:37
+009 React Developer Tools | 06:10
+010 Updating State Based on Current State | 05:16
+011 More Thoughts About State + State Guidelines | 06:33
+012 A Vanilla JavaScript Implementation | 06:35
+013 CHALLENGE #1 Date Counter (v1) | 13:09
+014 Starting a New Project The Far Away Travel List | 04:09
+015 Building the Layout | 08:55
+016 Rendering the Items List | 08:42
+017 Building a Form and Handling Submissions | 11:56
+018 Controlled Elements | 18:26
+019 State vs. Props | 03:30
+020 EXERCISE #1 Flashcards | 13:57
+021 CHALLENGE #2 Date Counter (v2) | 10:31
+------------------ 07 - Thinking In React State Management ------------------
+001 Section Overview | 00:58
+002 What is Thinking in React | 04:59
+003 Fundamentals of State Management | 09:25
+004 Thinking About State and Lifting State Up | 14:41
+005 Reviewing Lifting Up State | 06:26
+006 Deleting an Item More Child-to-Parent Communication! | 08:15
+007 Updating an Item Complex Immutable Data Operation | 07:44
+008 Derived State | 03:03
+009 Calculating Statistics as Derived State | 10:43
+010 Sorting Items | 10:49
+011 Clearing the List | 05:03
+012 Moving Components Into Separate Files | 08:53
+013 EXERCISE #1 Accordion Component (v1) | 14:15
+014 The children Prop Making a Reusable Button | 16:10
+015 More Reusability With the children Prop | 08:13
+016 EXERCISE #2 Accordion Component (v2) | 10:16
+017 CHALLENGE #1 Tip Calculator | 22:10
+------------------ 08 - [Optional] Practice Project Eat-'N-Split ------------------
+001 Section Overview | 00:55
+002 Project Setup | 03:52
+003 Building the Static App List of Friends | 12:02
+004 Building the Static App Forms | 09:27
+005 Displaying the New Friend Form | 06:34
+006 Adding a New Friend | 18:38
+007 Selecting a Friend | 15:02
+008 Creating Controlled Elements | 09:53
+009 Splitting a Bill | 12:48
+------------------ 09 - PART 2 INTERMEDIATE REACT [2 PROJECTS] ------------------
+001 Introduction to Part 2 | 01:16
+------------------ 10 - Thinking in React Components, Composition, and Reusability ------------------
+001 Section Overview | 01:01
+002 Setting Up the usePopcorn Project | 04:10
+003 How to Split a UI Into Components | 12:36
+004 Splitting Components in Practice | 23:58
+005 Component Categories | 02:42
+006 Prop Drilling | 07:32
+007 Component Composition | 04:51
+008 Fixing Prop Drilling With Composition (And Building a Layout) | 08:50
+009 Using Composition to Make a Reusable Box | 06:31
+010 Passing Elements as Props (Alternative to children) | 04:44
+011 Building a Reusable Star Rating Component | 11:23
+012 Creating the Stars | 13:04
+013 Handling Hover Events | 07:43
+014 Props as a Component API | 04:28
+015 Improving Reusability With Props | 19:28
+016 PropTypes | 07:24
+017 CHALLENGE #1 Text Expander Component | 18:21
+------------------ 11 - How React Works Behind the Scenes ------------------
+001 Section Overview | 01:55
+002 Project Setup and Walkthrough | 11:11
+003 Components, Instances, and Elements | 05:10
+004 Instances and Elements in Practice | 07:54
+005 How Rendering Works Overview | 06:55
+006 How Rendering Works The Render Phase | 18:28
+007 How Rendering Works The Commit Phase | 11:28
+008 How Diffing Works | 05:52
+009 Diffing Rules in Practice | 05:13
+010 The Key Prop | 07:42
+011 Resetting State With the Key Prop | 04:03
+012 Using the Key Prop to Fix Our Eat-'N-Split App | 04:07
+013 Rules for Render Logic Pure Components | 09:24
+014 State Update Batching | 09:11
+015 State Update Batching in Practice | 15:43
+016 How Events Work in React | 13:42
+017 Libraries vs. Frameworks & The React Ecosystem | 09:53
+018 Section Summary Practical Takeaways | 10:27
+------------------ 12 - Effects and Data Fetching ------------------
+001 Section Overview | 00:58
+002 The Component Lifecycle | 04:31
+003 How NOT to Fetch Data in React | 09:48
+004 useEffect to the Rescue | 04:40
+005 A First Look at Effects | 06:24
+006 Using an async Function | 05:40
+007 Adding a Loading State | 03:47
+008 Handling Errors | 13:03
+009 The useEffect Dependency Array | 12:17
+010 Synchronizing Queries With Movie Data | 15:09
+011 Selecting a Movie | 13:20
+012 Loading Movie Details | 17:43
+013 Adding a Watched Movie | 26:11
+014 Adding a New Effect Changing Page Title | 08:44
+015 The useEffect Cleanup Function | 04:21
+016 Cleaning Up the Title | 05:23
+017 Cleaning Up Data Fetching | 10:17
+018 One More Effect Listening to a Keypress | 14:06
+019 CHALLENGE #1 Currency Converter | 16:43
+------------------ 13 - Custom Hooks, Refs, and More State ------------------
+001 Section Overview | 00:57
+002 React Hooks and Their Rules | 10:55
+003 The Rules of Hooks in Practice | 08:36
+004 More Details of useState | 12:30
+005 Initializing State With a Callback (Lazy Initial State) | 13:30
+006 useState Summary | 03:14
+007 How NOT to Select DOM Elements in React | 03:38
+008 Introducing Another Hook useRef | 05:36
+009 Refs to Select DOM Elements | 10:09
+010 Refs to Persist Data Between Renders | 10:16
+011 What are Custom Hooks When to Create One | 04:22
+012 Creating our First Custom Hook useMovies | 13:03
+013 Creating useLocalStorageState | 09:07
+014 Creating useKey | 08:20
+015 CHALLENGE #1 useGeolocate | 07:28
+------------------ 14 - [Optional] React Before Hooks Class-Based React ------------------
+001 Section Overview | 01:17
+002 Our First Class Component | 09:33
+003 Working With Event Handlers | 10:25
+004 Class Components vs. Function Components | 05:37
+005 Starting the Classy Weather App | 07:46
+006 Fetching Weather Data | 09:40
+007 Displaying the Weather | 14:10
+008 Removing Boilerplate Code With Class Fields | 04:05
+009 Child to Parent Communication | 04:19
+010 Lifecycle Methods | 15:36
+------------------ 15 - PART 3 ADVANCED REACT + REDUX [4 PROJECTS] ------------------
+001 Introduction to Part 3 | 01:11
+------------------ 16 - The Advanced useReducer Hook ------------------
+001 Section Overview | 01:03
+002 Yet Another Hook useReducer | 17:59
+003 Managing Related Pieces of State | 12:23
+004 Managing State With useReducer | 14:14
+005 The React Quiz App | 07:57
+006 Loading Questions from a Fake API | 18:31
+007 Handling Loading, Error, and Ready Status | 09:05
+008 Starting a New Quiz | 04:55
+009 Displaying Questions | 07:46
+010 Handling New Answers | 16:42
+011 Moving to the Next Question | 06:23
+012 Displaying Progress | 08:57
+013 Finishing a Quiz | 15:07
+014 Restarting a Quiz | 07:05
+015 Setting Up a Timer With useEffect | 20:56
+016 Section Summary useState vs. useReducer | 05:54
+017 CHALLENGE #1 Creating a Bank Account With useReducer | 19:50
+------------------ 17 - React Router Building Single-Page Applications (SPA) ------------------
+001 Section Overview | 01:02
+002 Creating Our First App With Vite WorldWise | 15:41
+003 Routing and Single-Page Applications (SPAs) | 06:40
+004 Implementing Main Pages and Routes | 12:15
+005 Linking Between Routes With Link  and NavLink | 09:58
+006 Styling Options For React Applications | 05:50
+007 Using CSS Modules | 16:31
+008 Building the Pages | 17:00
+009 Building the App Layout | 08:45
+010 Nested Routes and Index Route | 13:25
+011 Implementing the Cities List | 18:42
+012 Implementing the Countries List | 11:07
+013 Storing State in the URL | 05:32
+014 Dynamic Routes With URL Parameters | 10:28
+015 Reading and Setting a Query String | 10:34
+016 Programmatic Navigation with useNavigate | 11:51
+017 Programmatic Navigation with Navigate | 04:12
+------------------ 18 - Advanced State Management The Context API ------------------
+001 Section Overview | 00:59
+002 CHALLENGE #1 Understand The Atomic Blog App | 04:22
+003 What is the Context API | 05:17
+004 Creating and Providing a Context | 09:27
+005 Consuming the Context | 10:54
+006 Advanced Pattern A Custom Provider and Hook | 16:16
+007 Thinking In React Advanced State Management | 11:38
+008 Back to WorldWise Creating a CitiesContext | 08:32
+009 Consuming the CitiesContext | 04:27
+010 Finishing the City View | 17:58
+011 Including a Map With the Leaflet Library | 09:25
+012 Displaying City Markers on Map | 05:58
+013 Interacting With the Map | 13:38
+014 Setting Map Position With Geolocation | 11:34
+015 Fetching City Data in the Form | 17:43
+016 Creating a New City | 23:28
+017 Deleting a City | 05:37
+018 Advanced State Management System Context + useReducer | 22:38
+019 Adding Fake Authentication Setting Up Context | 11:03
+020 Adding Fake Authentication Implementing Login | 16:24
+021 Adding Fake Authentication Protecting a Route | 11:21
+022 CHALLENGE #2 Refactoring React Quiz to Context API | 08:22
+------------------ 19 - Performance Optimization and Advanced useEffect ------------------
+001 Section Overview | 01:03
+002 Performance Optimization and Wasted Renders | 06:07
+003 The Profiler Developer Tool | 08:21
+004 A Surprising Optimization Trick With children | 11:50
+005 Understanding memo | 05:30
+006 memo in Practice | 13:17
+007 Understanding useMemo and useCallback | 06:40
+008 useMemo in Practice | 08:43
+009 useCallback in Practice | 10:09
+010 Optimizing Context Re-Renders | 14:48
+011 Back to The WorldWise App | 12:37
+012 Optimizing Bundle Size With Code Splitting | 15:52
+013 Don't Optimize Prematurely! | 02:59
+014 useEffect Rules and Best Practices | 10:01
+015 CHALLENGE #1 Fix Performance Issues in Workout Timer | 12:15
+016 Setting State Based on Other State Updates | 11:55
+017 Using Helper Functions In Effects | 15:04
+018 Closures in Effects | 09:53
+------------------ 20 - Redux and Modern Redux Toolkit (With Thunks) ------------------
+001 Section Overview | 01:07
+002 Introduction to Redux | 12:14
+003 Creating a Reducer Bank Account | 10:48
+004 Creating a Redux Store | 09:46
+005 Working With Action Creators | 06:29
+006 Adding More State Customer | 12:30
+007 Professional Redux File Structure State Slices | 11:48
+008 Back to React! Connecting our Redux App With React | 05:46
+009 Dispatching Actions from Our React App | 17:21
+010 The Legacy Way of Connecting Components to Redux | 04:50
+011 Redux Middleware and Thunks | 04:28
+012 Making an API Call With Redux Thunks | 17:50
+013 The Redux DevTools | 10:21
+014 What is Redux Toolkit (RTK) | 03:40
+015 Creating the Store With RTK | 04:37
+016 Creating the Account Slice | 21:44
+017 Back to Thunks | 05:02
+018 Creating the Customer Slice | 09:15
+019 Redux vs. Context API | 07:43
+------------------ 21 - PART 4 PROFESSIONAL REACT DEVELOPMENT [2 PROJECTS] ------------------
+001 Introduction to Part 4 | 01:28
+------------------ 22 - React Router With Data Loading (v6.4+) ------------------
+001 Section Overview | 00:52
+002 Setting Up a New Project Fast React Pizza Co | 08:13
+003 Application Planning | 21:25
+004 Setting Up a Professional File Structure | 08:20
+005 A New Way Of Implementing Routes | 10:30
+006 Building the App Layout | 11:19
+007 Fetching Data With React Router Loaders Pizza Menu | 11:50
+008 Displaying a Loading Indicator | 06:00
+009 Handling Errors With Error Elements | 06:24
+010 Fetching Orders | 12:40
+011 Writing Data With React Router Actions | 19:04
+012 Error Handling in Form Actions | 10:27
+------------------ 23 - [Optional] Tailwind CSS Crash Course Styling the App ------------------
+001 Section Overview | 00:59
+002 What is Tailwind CSS | 07:57
+003 Setting Up Tailwind CSS | 12:03
+004 Working With Color | 08:59
+005 Styling Text | 10:00
+006 The Box Model Spacing, Borders, and Display | 11:17
+007 Responsive Design | 10:49
+008 Using Flexbox | 06:32
+009 Using CSS Grid | 12:20
+010 Styling Buttons Element States and Transitions | 12:12
+011 Styling Form Elements | 10:22
+012 Reusing Styles With @apply | 04:29
+013 Reusing Styles With React Components | 12:27
+014 Absolute Positioning, z-index, and More | 06:30
+015 Configuring Tailwind Custom Font Family | 10:54
+016 Styling the Menu | 18:28
+017 Styling the Cart | 11:47
+018 Styling the Order Form | 13:21
+019 Styling the Order Overview | 13:54
+------------------ 24 - Adding Redux and Advanced React Router ------------------
+001 Section Overview | 00:40
+002 Modeling the User State With Redux Toolkit | 13:24
+003 Reading and Updating the User State | 10:37
+004 Modeling the Cart State | 14:21
+005 Adding Menu Items to the Cart | 07:07
+006 Building the Cart Overview With Redux Selectors | 09:00
+007 Building the Cart Page | 07:05
+008 Deleting Cart Items | 14:44
+009 Updating Cart Quantities | 13:33
+010 Using the Cart for New Orders | 14:31
+011 Redux Thunks With createAsyncThunk | 16:04
+012 Integrating Geolocation | 16:05
+013 Fetching Data Without Navigation useFetcher | 12:45
+014 Updating Data Without Navigation | 14:37
+------------------ 25 - Setting Up Our Biggest Project + Styled Components ------------------
+001 Section Overview | 00:54
+002 Application Planning | 18:29
+004 Setting Up the Project The Wild Oasis | 08:12
+005 Introduction to Styled Components | 12:22
+006 Global Styles With Styled Components | 14:36
+007 Styled Component Props and the css Function | 10:26
+008 Building More Reusable Styled Components | 11:03
+009 Setting Up Pages and Routes | 06:27
+010 Building the App Layout | 14:22
+011 Building the Sidebar and Main Navigation | 13:09
+------------------ 26 - Supabase Crash Course Building a Back-End! ------------------
+001 Section Overview | 00:47
+002 What is Supabase | 02:24
+003 Creating a New Database | 05:27
+004 Modeling Application State | 05:35
+005 Creating Tables | 09:31
+006 Relationships Between Tables | 08:29
+007 Adding Security Policies (RLS) | 06:18
+008 Connecting Supabase With Our React App | 08:45
+009 Setting Up Storage Buckets | 04:39
+------------------ 27 - React Query Managing Remote State ------------------
+001 Section Overview | 00:46
+002 What is React Query | 06:20
+003 Setting Up React Query | 07:19
+004 Fetching Cabin Data | 21:41
+005 Mutations Deleting a Cabin | 17:22
+006 Displaying Toasts (Notifications) | 08:42
+007 Introducing Another Library React Hook Form | 11:17
+008 Creating a New Cabin | 12:13
+009 Handling Form Errors | 22:42
+010 Uploading Images to Supabase | 14:41
+011 Editing a Cabin | 30:40
+012 Abstracting React Query Into Custom Hooks | 17:26
+013 Duplicating Cabins | 06:49
+014 Fetching Applications Settings | 08:48
+015 Updating Application Settings | 11:28
+------------------ 28 - Advanced React Patterns ------------------
+001 Section Overview | 01:13
+002 An Overview of Reusability in React | 05:45
+003 Setting Up an Example | 06:20
+004 The Render Props Pattern | 07:43
+005 A Look at Higher-Order Components (HOC) | 08:07
+006 The Compound Component Pattern | 18:18
+007 Building a Modal Window Using a React Portal | 19:54
+008 Converting the Modal to a Compound Component | 21:45
+009 Detecting a Click Outside the Modal | 13:37
+010 Confirming Cabin Deletions | 08:42
+011 Building a Reusable Table | 11:46
+012 Applying the Render Props Pattern | 04:38
+013 Building a Reusable Context Menu | 32:35
+------------------ 29 - [Optional] Implementing More Features Authentication, Dark Mode, Dashboard, etc ------------------
+001 Section Overview | 01:17
+002 Client-Side Filtering Filtering Cabins | 18:50
+003 Client-Side Sorting Sorting Cabins | 20:26
+004 Building the Bookings Table | 17:59
+005 Uploading Sample Data | 06:16
+006 API-Side Filtering Filtering Bookings | 17:10
+007 API-Side Sorting Sorting Bookings | 06:53
+008 Building a Reusable Pagination Component | 15:53
+009 API-Side Pagination Paginating Bookings | 10:39
+010 Prefetching With React Query | 07:58
+011 Building the Single Booking Page | 15:18
+012 Checking In a Booking | 28:19
+013 Adding Optional Breakfast | 14:05
+014 Checking Out a Booking (+ Fixing a Small Bug) | 09:50
+015 Deleting a Booking | 13:33
+016 Authentication User Login With Supabase | 22:06
+017 Authorization Protecting Routes | 23:24
+018 User Logout | 09:00
+019 Fixing an Important Bug | 05:35
+020 Building the Sign Up Form | 10:59
+021 User Sign Up | 15:02
+022 Authorization on Supabase Protecting Database (RLS) | 04:40
+023 Building The App Header | 10:18
+024 Updating User Data and Password | 28:26
+025 Implementing Dark Mode With CSS Variables | 21:30
+026 Building the Dashboard Layout | 04:26
+027 Computing Recent Bookings and Stays | 15:21
+028 Displaying Statistics | 12:02
+029 Displaying a Line Chart With the Recharts Library | 22:56
+030 Displaying a Pie Chart | 15:52
+031 Displaying Stays for Current Day | 20:41
+032 Error Boundaries | 09:45
+033 Final Touches + Fixing Bugs | 14:39
+------------------ 30 - Deployment With Netlify and Vercel ------------------
+001 Section Overview | 01:10
+002 Deploying to Netlify | 11:21
+003 Setting Up a Git and GitHub Repository | 16:16
+004 Deploying to Vercel | 05:54
+------------------ 31 - The End! ------------------
+001 Where to Go from Here | 03:21

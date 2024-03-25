@@ -1,0 +1,202 @@
+------------------ 1 - Introduction ------------------
+1 - Introduction | 01:48
+2 - What is the MERN Stack | 07:31
+3 - MERN A First Overview | 02:12
+5 - Course Outline | 02:13
+6 - How To Get The Most Out Of The Course | 02:54
+------------------ 2 - The MERN Stack Theory ------------------
+8 - Module Introduction | 01:18
+9 - Understanding the Big Picture | 08:05
+10 - Diving Into the Frontend | 04:06
+11 - Understanding the Backend | 05:11
+12 - REST vs GraphQL | 07:55
+13 - Connecting Node & React | 05:50
+14 - Creating our Development Environment & the Development Servers | 11:25
+15 - Diving Deeper Into the Code | 09:46
+------------------ 3 - Planning the App ------------------
+17 - Module Introduction | 04:50
+18 - Understanding the General App Idea | 02:36
+19 - Sketching out the Frontend | 09:37
+20 - Data & API Endpoints used in our App | 05:20
+21 - Required SPA Pages for the Frontend | 02:57
+------------------ 4 - Reactjs A Refresher ------------------
+22 - Module Introduction | 01:12
+23 - What is React | 03:14
+26 - Setting Up a Starting Project | 04:04
+27 - Understanding JSX | 05:31
+28 - Understanding Components | 02:51
+29 - Working with Multiple Components | 07:05
+30 - Using Props to pass Data between Components | 06:52
+31 - Rendering Lists of Data | 04:31
+32 - Handling Events | 07:25
+33 - Efficient ChildParent Communication | 04:39
+34 - Working with State | 05:54
+35 - More on State | 04:21
+36 - Fetching User Input Twoway Binding | 05:53
+37 - Wrap Up | 02:11
+------------------ 5 - Reactjs Building the Frontend ------------------
+39 - Module Introduction | 02:33
+40 - Starting Setup Pages & Routes | 17:21
+41 - Adding a UsersList Page Component | 09:29
+42 - Adding a UserItem Component | 03:42
+43 - Styling our App & More Components | 07:18
+44 - Presentational vs Stateful Components | 03:23
+45 - Adding a Main Header | 09:46
+46 - Adding Navlinks | 05:06
+47 - Implementing a Basic Desktop & Mobile Navigation | 04:21
+48 - Understanding Portals | 03:01
+49 - Handling the Drawer State | 04:08
+50 - Animating the Sidedrawer | 05:15
+51 - Rendering User Places & Using Dynamic Route Segments | 16:13
+52 - Getting Route Params | 02:16
+53 - Adding Custom Buttons | 02:54
+54 - Adding a Modal | 17:26
+55 - Rendering a Map with Google Maps | 14:36
+58 - Adding a Custom Form Input Component | 09:43
+59 - Managing State in the Input Component | 11:51
+60 - Adding Input Validation | 08:03
+61 - Sharing Input Values & Adding Multiple Inputs | 08:12
+62 - Managing Formwide State | 09:11
+63 - Finishing the Add Place Form | 03:19
+64 - Starting Work on the Update Place Page | 08:46
+65 - Adjusting the Input Component | 02:38
+66 - Creating a Custom Form Hook useForm | 11:03
+68 - Adjusting the Form Hook | 11:20
+69 - Fixing Minor Issues | 04:33
+70 - Showing a Deletion Warning | 05:28
+71 - Adding an Auth Page & Login Form | 09:06
+72 - Adding Signup Switch Mode Button | 11:18
+73 - Adding Auth Context for Appwide State Management | 07:04
+74 - Listening to Context Changes | 02:11
+75 - Adding Authenticated & Unauthenticated Routes | 05:49
+76 - More Auth Context Usage | 02:45
+77 - Wrap Up | 01:09
+------------------ 6 - Nodejs & Expressjs A Refresher ------------------
+79 - Module Introduction | 01:41
+80 - What is Nodejs | 02:56
+81 - Writing our First Nodejs Code | 08:21
+82 - Sending Requests & Responses | 13:34
+83 - What is Expressjs | 01:16
+84 - Adding Expressjs | 11:40
+85 - Understanding the Advantages of Expressjs | 08:33
+86 - How Code Execution Works | 03:17
+------------------ 7 - Nodejs & Expressjs Building our REST API ------------------
+88 - Module Introduction | 02:18
+89 - Setting up our Project | 02:29
+90 - Implementing Basic Routing | 11:21
+91 - Adding PlaceSpecific Routes | 09:39
+92 - Getting a Place By User ID | 04:37
+93 - Handling Errors | 10:52
+94 - Adding our own Error Model | 04:46
+95 - Adding Controllers | 06:43
+96 - Adding a POST Route & Using Postman | 13:22
+97 - Handling Errors for Unsupported Routes | 02:14
+98 - Adding Patch Routes to Update Places | 08:04
+99 - Deleting Places | 04:08
+100 - Finalizing the Get Places by User ID Resource | 02:45
+101 - Setting Up the User Routes Signup Login Get Users | 13:24
+102 - Validating API Input Request Bodies | 10:20
+103 - Validating Patch Requests & User Routes | 06:15
+104 - Using Googles Geocoding API to Convert an Address Into Coordinates | 16:20
+105 - Wrap Up | 01:27
+------------------ 8 - Working with MongoDB & Mongoose A Refresher ------------------
+107 - Module Introduction | 01:16
+108 - What is MongoDB | 01:27
+109 - SQL vs NoSQL | 03:41
+110 - Connecting React to a Database | 01:45
+111 - Setting Up MongoDB | 05:26
+112 - Creating a Simple Backend & Connecting it to the Database | 05:51
+113 - Creating a Document with MongoDB | 07:52
+114 - Getting Data from the Database | 06:12
+115 - Installing Mongoose | 01:31
+116 - Understanding Models & Schemas | 03:51
+117 - Creating a Product | 03:24
+118 - Connecting to the Database & Saving the Product | 07:28
+119 - Getting Products | 04:13
+120 - Understanding the ObjectID | 03:19
+121 - Wrap Up | 01:42
+------------------ 9 - Connecting the Backend to the Database MongoDB & Mongoose ------------------
+123 - Module Introduction | 01:27
+124 - Installing Mongoose & Connecting our Backend to MongoDB | 06:33
+125 - Creating the Place Schema & Model | 06:34
+126 - Creating & Storing Documents in the Database | 07:26
+127 - Getting Places by the PlaceID | 08:08
+128 - Getting Places by the UserID | 05:54
+129 - Updating Places | 06:10
+130 - Deleting Places | 03:44
+131 - How Users & Places are Related | 01:35
+132 - Creating the User Model | 06:28
+133 - Using the User Model for Signup | 11:43
+134 - Adding the User Login | 04:19
+135 - Getting Users | 05:38
+136 - Adding the Relation between Places & Users | 05:03
+137 - Creating Places & Adding it to a User | 13:59
+138 - Deleting Places & Removing it From the User | 07:47
+139 - Getting Places An Alternative | 05:38
+140 - Cleaning Up our Code | 02:32
+141 - Wrap Up | 01:43
+------------------ 10 - Connecting the Reactjs Frontend to the Backend ------------------
+143 - Module Introduction | 01:31
+144 - Initial Setup | 01:01
+145 - Sending a POST Request to the Backend | 10:31
+147 - Handling CORS Errors | 06:59
+148 - Getting Started with Error Handling | 08:00
+149 - Proper Error Handling in the Frontend | 05:05
+150 - Sending a Login Request | 03:36
+151 - Getting Users with a GET Request | 10:22
+152 - Creating a Custom Http Hook | 10:50
+153 - Improving the Custom Http Hook | 08:30
+154 - Using the Http Hook to GET Users | 03:48
+155 - Adding Places POST | 13:06
+156 - Loading Places by User Id | 08:00
+157 - Updating Places | 12:23
+158 - Deleting Places | 07:41
+159 - Fixing NavLinks & My Places | 01:07
+160 - Final Adjustments | 03:43
+------------------ 11 - Adding File Upload ------------------
+162 - Module Introduction | 01:14
+163 - Building an ImageUpload Component | 10:37
+164 - Finishing & Using the ImageUpload Component in a Form | 12:17
+165 - On the Backend Using Multer to Save Files | 08:52
+166 - Filtering Files on the Backend Images Only | 03:03
+167 - Wiring Frontend and Backend Up | 05:10
+168 - Connecting Users to Images | 06:19
+169 - Serving Images Statically | 03:33
+170 - Uploading Images for New Places | 06:08
+171 - Deleting Images When Places Get Deleted | 03:00
+172 - Wrap Up | 01:32
+------------------ 12 - Adding Authentication ------------------
+174 - Module Introduction | 01:09
+175 - How Authentication Works in a MERN App | 05:02
+176 - Hashing the User Password | 05:32
+177 - Logging Users In with Hashed Passwords | 03:10
+178 - Generating Tokens JWT on the Backend | 09:02
+180 - Backend Route Protection with Auth Middleware | 12:49
+181 - Using & Attaching JWT Tokens in React | 07:17
+182 - Using Tokens to Update and Delete Places | 02:26
+183 - Adding Authorization | 07:36
+184 - Authorization on Delete Places | 03:02
+185 - Storing the Token in the Browser Storage | 06:10
+186 - Adding AutoLogin Basic Version | 05:14
+187 - Managing the Token Expiration Date | 04:54
+188 - Finished AutoLogin & AutoLogout | 08:03
+189 - Creating a Custom Authentication Hook | 03:46
+190 - Authentication Summary | 01:49
+191 - General App Improvements | 04:40
+------------------ 13 - Application Deployment ------------------
+193 - Module Introduction | 00:55
+194 - Deployment Steps Overview | 02:30
+195 - Using Environment Variables Nodejs | 08:26
+196 - Environment Variables in React Apps | 07:26
+197 - Preparing API Keys & Credentials | 05:48
+198 - Building the React App | 04:31
+199 - Adding Code Splitting to React | 07:15
+200 - Understanding Possible Deployment Alternatives | 03:50
+201 - Deploying a Standalone REST API Example Heroku | 10:47
+202 - Deploying a Standalone React SPA Example Firebase Hosting | 09:13
+203 - Fixing Style Issues | 01:36
+204 - Deploying a Combined App | 10:24
+205 - Storing Files Uploads | 02:20
+206 - Wrap Up | 00:46
+------------------ 14 - Roundup & Next Steps ------------------
+207 - Course Roundup | 03:27

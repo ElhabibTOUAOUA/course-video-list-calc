@@ -90,8 +90,8 @@ def course_video_list(course_path, course_name):
 
 
 def course_duration_list(course_name):
-	base_path = os.path.join("E:\\","Courses", "Web Development",course_name)
-	# base_path = os.path.join("E:\\","Courses", course_name)
+	# base_path = os.path.join("E:\\","Courses", "Web Development",course_name)
+	base_path = os.path.join("E:\\","Courses", course_name)
 	course_name = base_path.split('\\')[-1]
 	course_duration(base_path, course_name)
 	course_video_list(base_path, course_name)
@@ -100,7 +100,7 @@ if __name__ == '__main__':
 	# courses_dir = os.path.join("E:\\","Courses", "Web Development")
   
   # uncomment the next line if you want to process just one course
-  course_duration_list("Udemy - React, NodeJS, Express & MongoDB - The MERN Fullstack Guide 2022-8")
+  course_duration_list("[FreeCourseSite.com] Udemy - The Ultimate React Course 2023 React, Redux & More")
 
 	# courses = [course for course in os.listdir(courses_dir) if os.path.isdir(os.path.join(courses_dir, course))]
 	# for course in courses:
